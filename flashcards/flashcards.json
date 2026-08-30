@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "listening_part_1_problem_solving",
+    "front": "How many parts does the CELPIP-General Listening section have in total?",
+    "back": "The Listening section has 6 parts, contributing to 38 scored questions overall. Part 1 (Problem Solving) is the first of these."
+  },
+  {
+    "id": 2,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What is the general topic of Listening Part 1?",
+    "back": "Part 1 presents a single-speaker monologue, often voicemail-style, in which the speaker faces a practical problem, such as a scheduling conflict or a broken item, and describes the options they considered before deciding. You then answer questions about the situation and the chosen solution."
+  },
+  {
+    "id": 3,
+    "domain": "listening_part_1_problem_solving",
+    "front": "How many times does the audio play in Listening Part 1?",
+    "back": "The audio plays only once for every part of the Listening section, including Part 1. There is no replay, so focused first-listen attention matters."
+  },
+  {
+    "id": 4,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What answer format is used in Listening Part 1?",
+    "back": "Like every Listening part, Part 1 uses 4-option multiple choice questions labelled A through D. You select the single best answer for each question."
+  },
+  {
+    "id": 5,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What does the phrase \"to work around a conflict\" mean in a Part 1 conversation?",
+    "back": "It means to find a way to manage two competing commitments, such as adjusting a schedule so two events no longer overlap. This phrase often signals the problem-solving moment in the dialogue."
+  },
+  {
+    "id": 6,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What is a useful strategy for the moments before Part 1 audio starts?",
+    "back": "Quickly skim the answer options for the first one or two questions so you know what details to listen for, such as names, times, or reasons. This primes your attention before the single playback begins."
+  },
+  {
+    "id": 7,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What common trap appears in Part 1 questions about the final decision?",
+    "back": "Speakers often mention and then reject one or two options before settling on the real solution. A common trap is choosing an option that was discussed but ultimately turned down."
+  },
+  {
+    "id": 8,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What does \"to reschedule\" mean, and why does it matter for Part 1?",
+    "back": "It means to change something to a different time or date. Part 1 conversations frequently involve rescheduling an appointment, meeting, or event, so listen for the new agreed time."
+  },
+  {
+    "id": 9,
+    "domain": "listening_part_1_problem_solving",
+    "front": "How long is the Listening section overall, including all 6 parts?",
+    "back": "The Listening section runs approximately 46 to 55 minutes in total, covering the audio for all 6 parts plus time to answer the questions."
+  },
+  {
+    "id": 10,
+    "domain": "listening_part_1_problem_solving",
+    "front": "Why should you avoid trying to write down every word during Part 1?",
+    "back": "Because the audio plays only once, trying to transcribe everything causes you to miss the next sentence. Instead jot short keywords like names, numbers, and the final decision."
+  },
+  {
+    "id": 11,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What does \"to compromise\" mean in the context of a Part 1 dialogue?",
+    "back": "It means each side gives up part of what they want to reach an agreement. Part 1 problems are often resolved through a compromise rather than one person getting their full original preference."
+  },
+  {
+    "id": 12,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What kind of setting is typical for a Listening Part 1 conversation?",
+    "back": "Everyday practical settings are typical, such as a voicemail about a broken appliance, a car problem, a cancelled flight, or a childcare mix-up, where the speaker explains what happened and how they resolved it."
+  },
+  {
+    "id": 13,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What trap involves numbers in Part 1 listening questions?",
+    "back": "Conversations may mention several numbers, such as times or amounts, before settling on the final one. Test takers sometimes select an earlier number instead of the corrected or agreed-upon figure."
+  },
+  {
+    "id": 14,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What does the phrase \"that won't work for me\" signal in a Part 1 conversation?",
+    "back": "It signals that a speaker is rejecting a suggested option. Hearing this phrase means the option just mentioned is unlikely to be the final chosen solution."
+  },
+  {
+    "id": 15,
+    "domain": "listening_part_1_problem_solving",
+    "front": "Is each of the four English skills on CELPIP-General scored together or separately?",
+    "back": "Each skill, Listening, Reading, Writing, and Speaking, is scored separately on the Canadian Language Benchmark scale from 4 to 12, with scores below 4 reported as M. There is no combined overall score."
+  },
+  {
+    "id": 16,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What does \"to follow up\" mean, and where might it appear in Part 1?",
+    "back": "It means to take a further action after an initial step, such as calling back or confirming details later. A Part 1 conversation may end with one speaker agreeing to follow up on an arrangement."
+  },
+  {
+    "id": 17,
+    "domain": "listening_part_1_problem_solving",
+    "front": "Why is it useful to track pronouns like 'it' or 'that option' in a Part 1 monologue?",
+    "back": "The single speaker often drops back to a pronoun once an option has already been named, so losing track of what the pronoun refers to can cause you to misattribute a reason or a decision to the wrong option."
+  },
+  {
+    "id": 18,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What does \"a workaround\" mean as a noun?",
+    "back": "A workaround is a temporary or alternative method used to solve a problem when the usual approach is not possible. Part 1 speakers often propose a workaround before reaching a final decision."
+  },
+  {
+    "id": 19,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What common trap involves a speaker changing their mind mid-conversation?",
+    "back": "A speaker may first agree to something, then later express doubt or change their position. If a question asks for the speaker's final view, choosing their earlier statement rather than the updated one is a common error."
+  },
+  {
+    "id": 20,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What does \"to accommodate someone\" mean in a Part 1 context?",
+    "back": "It means to adjust plans or arrangements to meet another person's needs. A speaker who accommodates a request is being flexible, which often marks the resolution of the problem."
+  },
+  {
+    "id": 21,
+    "domain": "listening_part_1_problem_solving",
+    "front": "How should you use the brief time before questions appear on screen in Part 1?",
+    "back": "Use the few seconds available to preview upcoming questions if the interface allows it, since knowing what to listen for in advance helps you catch the specific detail needed for each answer."
+  },
+  {
+    "id": 22,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What does \"to weigh the options\" mean?",
+    "back": "It means to think carefully about the advantages and disadvantages of each choice before deciding. Part 1 speakers often weigh options aloud, which is exactly the reasoning the questions test."
+  },
+  {
+    "id": 23,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What trap involves distractor reasons in Part 1?",
+    "back": "A question may ask why a speaker rejected an option, but the conversation mentions several reasons in passing. Only the reason the speaker explicitly states as their own is correct, not a reason a listener might assume."
+  },
+  {
+    "id": 24,
+    "domain": "listening_part_1_problem_solving",
+    "front": "What does \"to run into a problem\" mean?",
+    "back": "It means to unexpectedly encounter a difficulty. This phrase often opens the problem-solving scenario in Part 1, signalling that the main issue is about to be described."
+  },
+  {
+    "id": 25,
+    "domain": "listening_part_1_problem_solving",
+    "front": "Since Listening is scored separately, does a weak Part 1 performance directly lower your Reading score?",
+    "back": "No. Listening and Reading are scored independently on their own CLB scale, so performance in one section has no direct effect on the score reported for the other."
+  },
+  {
+    "id": 26,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What is the focus of Listening Part 2?",
+    "back": "Part 2 presents a longer everyday conversation between two people, often friends, family, or acquaintances, discussing plans, opinions, or shared experiences from daily life."
+  },
+  {
+    "id": 27,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "How many options are given for each Listening Part 2 question?",
+    "back": "Each question offers 4 options, A to D, and you choose the single best answer based on what was actually said in the conversation."
+  },
+  {
+    "id": 28,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to catch up\" mean in a Part 2 daily life conversation?",
+    "back": "It means to talk with someone about what has happened since you last spoke, often after time apart. Many Part 2 conversations open with two friends catching up before moving into the main topic."
+  },
+  {
+    "id": 29,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "Why is tracking the topic shift within a Part 2 conversation important?",
+    "back": "Daily life conversations often start on one topic, such as weather or health, then shift to the real subject, like weekend plans. Questions usually focus on the main topic, not the small talk opener."
+  },
+  {
+    "id": 30,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to make plans\" mean, and how does it relate to Part 2?",
+    "back": "It means to arrange to do something at a future time. Since Part 2 conversations frequently involve two people making plans together, listen for the agreed activity, place, and time."
+  },
+  {
+    "id": 31,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What common trap involves opinions in Part 2?",
+    "back": "Both speakers may express opinions on the same topic, sometimes disagreeing. A question asking for one speaker's opinion can be answered incorrectly if you mix up which speaker said what."
+  },
+  {
+    "id": 32,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to bring something up\" mean?",
+    "back": "It means to introduce a topic into a conversation. Recognizing when a speaker brings up a new subject helps you follow the structure of a Part 2 dialogue."
+  },
+  {
+    "id": 33,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "How should you handle unfamiliar idioms during Part 2 listening?",
+    "back": "Do not stop to analyze an unfamiliar idiom, since the audio only plays once. Focus on the overall meaning from context and keep listening, as the answer usually depends on the main idea rather than one phrase."
+  },
+  {
+    "id": 34,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to be up for something\" mean?",
+    "back": "It means to be willing or interested in doing an activity. If a speaker says they are up for an outing, it usually signals agreement with a suggested plan in a Part 2 conversation."
+  },
+  {
+    "id": 35,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What trap involves a change of mind about plans in Part 2?",
+    "back": "One speaker may initially decline an invitation and then reconsider later in the conversation. If a question asks whether the person will attend, the earlier refusal can wrongly seem like the final answer."
+  },
+  {
+    "id": 36,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to have mixed feelings about something\" mean?",
+    "back": "It means to feel both positive and negative about a situation at the same time. A speaker with mixed feelings in Part 2 may not give a simple yes or no, so listen for the balance of their view."
+  },
+  {
+    "id": 37,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What kind of details do Part 2 questions typically test?",
+    "back": "Part 2 questions typically test specific details such as reasons, preferences, feelings, and small facts mentioned by the speakers, in addition to the overall gist of the conversation."
+  },
+  {
+    "id": 38,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to be on the fence\" mean?",
+    "back": "It means to be undecided between two choices. A speaker on the fence in Part 2 has not committed to an option yet, which is different from a speaker who has already decided."
+  },
+  {
+    "id": 39,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "Why is it risky to answer a Part 2 question based only on the first thing you hear about a subject?",
+    "back": "Conversations develop over time, and a speaker's stance can be clarified or corrected later. The correct answer often depends on the final, most complete statement rather than an early mention."
+  },
+  {
+    "id": 40,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to talk someone into something\" mean?",
+    "back": "It means to persuade someone to do something they were originally unwilling to do. This phrase often appears when one Part 2 speaker convinces the other to join an activity."
+  },
+  {
+    "id": 41,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What is a useful mental habit while listening to Part 2 conversations?",
+    "back": "Silently summarize each speaker's stance in a few words as the conversation proceeds, such as \"wants to go\" or \"prefers to stay home,\" so you can quickly match it to the answer options afterward."
+  },
+  {
+    "id": 42,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to give someone a hand\" mean?",
+    "back": "It means to help someone with a task. In a Part 2 conversation, one speaker offering to give the other a hand often signals a favour central to the conversation's plot."
+  },
+  {
+    "id": 43,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What trap involves similar-sounding details in Part 2 answer options?",
+    "back": "Answer options can contain details that sound similar to what was said but change a key fact, such as a day, name, or amount. Match the option precisely against what was stated, not just its general feel."
+  },
+  {
+    "id": 44,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to keep someone posted\" mean?",
+    "back": "It means to keep someone informed of updates about a situation. A speaker asking to be kept posted in Part 2 expects future information, which can be relevant to a question about next steps."
+  },
+  {
+    "id": 45,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "How does Part 2 differ from Part 1 in terms of conversation type?",
+    "back": "Part 1 centres on solving a specific practical problem, while Part 2 covers a broader daily life conversation that may include plans, updates, and opinions without necessarily resolving one single problem."
+  },
+  {
+    "id": 46,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to sound thrilled\" versus \"to sound reluctant\" tell you about a speaker in Part 2?",
+    "back": "These phrases describe tone. A speaker who sounds thrilled is enthusiastic about an idea, while one who sounds reluctant is hesitant or unwilling, which can directly answer questions about attitude."
+  },
+  {
+    "id": 47,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "Why should you avoid choosing an option just because it contains a word you clearly heard?",
+    "back": "Distractor options are often built from real words spoken in the audio but combined incorrectly. The correct option must match the actual meaning and relationship described, not just repeat a familiar word."
+  },
+  {
+    "id": 48,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What does \"to have a lot on one's plate\" mean?",
+    "back": "It means to be very busy with many responsibilities. A Part 2 speaker who says this is explaining why they may be unavailable or stressed, which often connects to a question about their situation."
+  },
+  {
+    "id": 49,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "What is a good approach if you miss a detail during Part 2 listening?",
+    "back": "Let it go and keep listening rather than dwelling on the missed detail, since the audio does not replay. Focusing on the next parts of the conversation gives you the best chance to answer later questions correctly."
+  },
+  {
+    "id": 50,
+    "domain": "listening_part_2_daily_life_conversation",
+    "front": "Does a strong Listening score guarantee a strong Speaking score on CELPIP-General?",
+    "back": "No. Listening and Speaking are assessed and reported separately on the CLB scale, so a high result in one skill does not determine or guarantee the result in another."
+  },
+  {
+    "id": 51,
+    "domain": "listening_part_3_information",
+    "front": "What type of audio is used in Listening Part 3?",
+    "back": "Part 3 presents an informational monologue or talk, often given by a single speaker explaining a topic, service, procedure, or set of facts rather than a back-and-forth conversation."
+  },
+  {
+    "id": 52,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to provide an overview\" mean, and why does it matter in Part 3?",
+    "back": "It means to give a general summary of a topic before details follow. Many Part 3 talks open with an overview, which helps you predict the structure of the information that follows."
+  },
+  {
+    "id": 53,
+    "domain": "listening_part_3_information",
+    "front": "How many answer choices appear for each Listening Part 3 question?",
+    "back": "As with all Listening parts, each question has 4 options, A through D, and only one is the best answer based on the information given in the talk."
+  },
+  {
+    "id": 54,
+    "domain": "listening_part_3_information",
+    "front": "What strategy helps when a Part 3 talk lists several steps or facts in sequence?",
+    "back": "Mentally group facts by order or category as they are presented, such as first, second, and finally, since Part 3 questions often test the correct sequence or grouping of information rather than isolated facts."
+  },
+  {
+    "id": 55,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to specialize in something\" mean?",
+    "back": "It means to focus mainly on one particular area or skill. A Part 3 speaker introducing themselves might mention what they specialize in, which can answer a question about their role or expertise."
+  },
+  {
+    "id": 56,
+    "domain": "listening_part_3_information",
+    "front": "What common trap involves numbers or statistics in Part 3?",
+    "back": "A talk may mention multiple related numbers, such as a percentage and a total count. Selecting the wrong number because it appeared near the correct topic, rather than matching the specific value asked about, is a frequent error."
+  },
+  {
+    "id": 57,
+    "domain": "listening_part_3_information",
+    "front": "What does \"a prerequisite\" mean?",
+    "back": "A prerequisite is something required before another thing can happen, such as a qualification needed before enrolling in a course. Part 3 talks about programs or services often mention prerequisites."
+  },
+  {
+    "id": 58,
+    "domain": "listening_part_3_information",
+    "front": "Why is identifying the purpose of the talk useful in Part 3?",
+    "back": "Knowing whether the talk is meant to inform, instruct, or promote something helps you anticipate what kind of details, such as benefits, steps, or requirements, the questions are likely to ask about."
+  },
+  {
+    "id": 59,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to be eligible for something\" mean?",
+    "back": "It means to meet the requirements needed to qualify for a benefit, program, or opportunity. Eligibility criteria are common content in Part 3 informational talks about services or programs."
+  },
+  {
+    "id": 60,
+    "domain": "listening_part_3_information",
+    "front": "What trap involves exceptions mentioned in a Part 3 talk?",
+    "back": "A speaker may state a general rule and then mention an exception. If a question asks about a specific case, choosing the general rule instead of the stated exception leads to an incorrect answer."
+  },
+  {
+    "id": 61,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to be subject to change\" mean?",
+    "back": "It means something may be altered later and is not fixed. Part 3 talks about schedules or policies sometimes note that details are subject to change, which itself can be a testable fact."
+  },
+  {
+    "id": 62,
+    "domain": "listening_part_3_information",
+    "front": "How should note-taking differ in Part 3 compared to Part 1's conversation?",
+    "back": "Since Part 3 is a single continuous talk rather than a dialogue, focus notes on categories of information such as who, what, when, and requirements, rather than tracking two different speakers' positions."
+  },
+  {
+    "id": 63,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to outline the process\" mean?",
+    "back": "It means to describe the steps of a process in order. A Part 3 speaker who outlines a process is giving you the exact sequence that later questions are likely to test."
+  },
+  {
+    "id": 64,
+    "domain": "listening_part_3_information",
+    "front": "What is a common trap when a Part 3 talk compares two similar items or services?",
+    "back": "The talk may describe features of two options, and a question might ask which feature belongs to which option. Confusing which detail applies to which item is a frequent mistake in comparison-based talks."
+  },
+  {
+    "id": 65,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to be applicable to\" mean?",
+    "back": "It means relevant to or able to be used for a particular group or situation. A rule described as applicable to a specific group in Part 3 does not necessarily apply to everyone mentioned in the talk."
+  },
+  {
+    "id": 66,
+    "domain": "listening_part_3_information",
+    "front": "Why is it useful to note the speaker's tone in a Part 3 informational talk?",
+    "back": "Tone can signal whether the speaker is being neutral, cautionary, or enthusiastic about a topic, which sometimes helps answer questions about the speaker's attitude or the overall purpose of the talk."
+  },
+  {
+    "id": 67,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to fall under a category\" mean?",
+    "back": "It means to belong to a particular classification or group. Part 3 talks that organize information into categories often test whether you can correctly place a detail under its matching category."
+  },
+  {
+    "id": 68,
+    "domain": "listening_part_3_information",
+    "front": "What trap involves a Part 3 talk correcting itself?",
+    "back": "A speaker may state something and then correct or clarify it moments later, such as adjusting a date or amount. The corrected version, not the original statement, is the accurate answer."
+  },
+  {
+    "id": 69,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to be exempt from something\" mean?",
+    "back": "It means to be officially excused from a requirement that otherwise applies. Part 3 talks about rules or fees sometimes mention who is exempt, which is distinct from who is simply eligible."
+  },
+  {
+    "id": 70,
+    "domain": "listening_part_3_information",
+    "front": "How does the informational focus of Part 3 differ from the news style of Part 4?",
+    "back": "Part 3 typically explains a topic, service, or procedure directly to the listener, often in an instructional tone, while Part 4 presents a news item reporting on an event, similar to a broadcast report."
+  },
+  {
+    "id": 71,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to be mandatory\" mean, versus \"optional\"?",
+    "back": "Mandatory means required, while optional means not required and left to personal choice. Part 3 talks frequently distinguish mandatory steps from optional ones, and mixing these up is a common error."
+  },
+  {
+    "id": 72,
+    "domain": "listening_part_3_information",
+    "front": "What is a good way to handle unfamiliar technical vocabulary in a Part 3 talk?",
+    "back": "Rely on the surrounding context to infer general meaning rather than pausing on the unfamiliar term, since the recording continues regardless and losing the next sentence is more costly than one unclear word."
+  },
+  {
+    "id": 73,
+    "domain": "listening_part_3_information",
+    "front": "What does \"to renew something\" mean, such as a licence or membership?",
+    "back": "It means to extend the validity of something that is expiring by completing a required process again. Part 3 informational talks about services often explain how and when something must be renewed."
+  },
+  {
+    "id": 74,
+    "domain": "listening_part_3_information",
+    "front": "What trap involves conditional statements in Part 3, such as \"if... then\"?",
+    "back": "A speaker may describe a condition and its result, such as what happens if a deadline is missed. Answer options sometimes reverse the condition and result, so match the direction of the statement carefully."
+  },
+  {
+    "id": 75,
+    "domain": "listening_part_3_information",
+    "front": "Is the CLB score for Listening reported as a single combined number with Reading?",
+    "back": "No. Listening and Reading each receive their own separate CLB score from 4 to 12, or M if below 4, and CELPIP-General never combines them into one overall score."
+  },
+  {
+    "id": 76,
+    "domain": "listening_part_4_news_item",
+    "front": "What is the format of Listening Part 4?",
+    "back": "Part 4 presents a short news item, similar to what might be heard on a radio or television broadcast, reporting on a real-world type event, announcement, or development."
+  },
+  {
+    "id": 77,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"to report on an event\" mean in the context of Part 4?",
+    "back": "It means to give factual information describing what happened, is happening, or will happen regarding a specific event. Part 4 news items are structured this way, similar to a real news broadcast."
+  },
+  {
+    "id": 78,
+    "domain": "listening_part_4_news_item",
+    "front": "How many questions typically follow a Listening Part 4 news item?",
+    "back": "5 scored questions typically follow a Listening Part 4 news item."
+  },
+  {
+    "id": 79,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"an update\" mean as used in a news item?",
+    "back": "An update is new information added to something previously reported, such as a change in status. Part 4 news items sometimes present an update on an ongoing situation rather than a brand-new story."
+  },
+  {
+    "id": 80,
+    "domain": "listening_part_4_news_item",
+    "front": "What is a useful listening strategy for the fast pace of a Part 4 news item?",
+    "back": "Focus on the core facts, who, what, when, and where, since news items are often information-dense and delivered quickly, and the audio only plays once with no replay."
+  },
+  {
+    "id": 81,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"to announce\" mean?",
+    "back": "It means to state something officially and publicly for the first time. Part 4 news items frequently centre on an announcement, such as a new policy, event, or finding."
+  },
+  {
+    "id": 82,
+    "domain": "listening_part_4_news_item",
+    "front": "What common trap involves the timing of events in Part 4 news items?",
+    "back": "A news item may mention when something happened, is happening now, and will happen in the future all in one short segment. Confusing past, present, and future timing is a frequent source of wrong answers."
+  },
+  {
+    "id": 83,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"to affect a certain group\" mean?",
+    "back": "It means to have an impact on a specific set of people or things. Part 4 items often specify exactly which group is affected by a development, and this detail is a common question focus."
+  },
+  {
+    "id": 84,
+    "domain": "listening_part_4_news_item",
+    "front": "Why is it risky to assume a Part 4 story matches a familiar real-world news topic?",
+    "back": "The scenario is created for the test and may not follow real-world outcomes you might expect. Base your answers strictly on what is stated in the audio, not on outside knowledge or assumptions."
+  },
+  {
+    "id": 85,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"to go into effect\" mean?",
+    "back": "It means for a rule, law, or change to officially begin operating. Part 4 news items about new policies often specify exactly when the policy goes into effect, which is a testable detail."
+  },
+  {
+    "id": 86,
+    "domain": "listening_part_4_news_item",
+    "front": "What trap involves quoted speakers within a Part 4 news item?",
+    "back": "A news item may include a short quote from an official or expert. A question asking what this specific person said requires matching the quote to the correct speaker, not to the reporter's own summary."
+  },
+  {
+    "id": 87,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"a spokesperson\" mean?",
+    "back": "A spokesperson is a person who speaks on behalf of an organization or group. Part 4 news items sometimes quote a spokesperson, and their statement can be the answer to a detail question."
+  },
+  {
+    "id": 88,
+    "domain": "listening_part_4_news_item",
+    "front": "How does the tone of Part 4 typically differ from Part 3?",
+    "back": "Part 4 tends to use a more formal, broadcast-style tone reporting discrete facts about an event, whereas Part 3 often instructs or explains a topic directly and can feel more conversational in delivery."
+  },
+  {
+    "id": 89,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"to cause concern\" mean?",
+    "back": "It means to lead people to worry about something. A Part 4 news item might state that a development has caused concern among a certain group, which can be the basis of a question about reaction."
+  },
+  {
+    "id": 90,
+    "domain": "listening_part_4_news_item",
+    "front": "What trap involves cause-and-effect relationships in Part 4 news items?",
+    "back": "A news item may describe multiple events where one caused another. Reversing which event was the cause and which was the effect is a common wrong-answer pattern in these questions."
+  },
+  {
+    "id": 91,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"a development\" mean as used in news reporting?",
+    "back": "A development is a new event or change in an ongoing situation. Part 4 items often describe the latest development in a story, distinguishing it from earlier background information."
+  },
+  {
+    "id": 92,
+    "domain": "listening_part_4_news_item",
+    "front": "Why should you avoid focusing only on the opening sentence of a Part 4 news item?",
+    "back": "The opening sentence often just introduces the general topic, while the key testable facts, numbers, and outcomes are usually given afterward, so sustained attention through the whole item matters."
+  },
+  {
+    "id": 93,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"in response to\" mean?",
+    "back": "It means as a reaction to something that happened first. Part 4 news items use this phrase to link an action taken by a person or organization to an earlier event, which is often tested directly."
+  },
+  {
+    "id": 94,
+    "domain": "listening_part_4_news_item",
+    "front": "What trap involves location details in Part 4 news items?",
+    "back": "A story may mention more than one place, such as where an event started and where it is having an effect. Mixing up these locations is a common error when answering location-based questions."
+  },
+  {
+    "id": 95,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"to confirm\" mean, as opposed to \"to speculate\"?",
+    "back": "To confirm means to state something as verified fact, while to speculate means to guess without certainty. A Part 4 news item may distinguish confirmed facts from speculation, and questions can test this distinction."
+  },
+  {
+    "id": 96,
+    "domain": "listening_part_4_news_item",
+    "front": "Why is note-taking for Part 4 often shorter than for Part 3?",
+    "back": "Part 4 news items are typically brief and dense, so there is less time to write extended notes. Jotting only the most critical facts, such as key numbers and names, is usually more effective."
+  },
+  {
+    "id": 97,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"to postpone\" mean?",
+    "back": "It means to delay an event to a later time. Part 4 news items about changed plans or events sometimes use this word, and the new timing given afterward is often the tested detail."
+  },
+  {
+    "id": 98,
+    "domain": "listening_part_4_news_item",
+    "front": "What trap involves partial information given early in a Part 4 news item?",
+    "back": "An item may give an incomplete fact early on and clarify it later, such as first mentioning a general area and then specifying an exact detail. The clarified, more specific information is usually what a question is checking."
+  },
+  {
+    "id": 99,
+    "domain": "listening_part_4_news_item",
+    "front": "What does \"to be under investigation\" mean?",
+    "back": "It means that an official inquiry into a matter is currently taking place, with no confirmed outcome yet. Part 4 items describing something under investigation are indicating the situation is unresolved."
+  },
+  {
+    "id": 100,
+    "domain": "listening_part_4_news_item",
+    "front": "Because each CELPIP-General skill is scored separately, what should you do if Part 4 feels difficult?",
+    "back": "Do your best on it and move forward calmly, since one difficult part does not directly change how another skill like Reading or Speaking is scored. Each skill's CLB score reflects only that skill's overall performance."
+  },
+  {
+    "id": 101,
+    "domain": "listening_part_5_discussion",
+    "front": "What is the format of Listening Part 5?",
+    "back": "Part 5 presents a discussion between two speakers, exchanging views or information on a shared topic in a more extended, back-and-forth conversation than Part 2's."
+  },
+  {
+    "id": 102,
+    "domain": "listening_part_5_discussion",
+    "front": "Why is tracking who is speaking especially important in Part 5?",
+    "back": "Because Part 5 is a longer, more detailed two-speaker exchange than Part 2, confusing which of the two people made which point is a common source of error."
+  },
+  {
+    "id": 103,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to chime in\" mean?",
+    "back": "It means to join a conversation, usually by adding a comment or opinion. In a Part 5 discussion, a third speaker chiming in often introduces a new perspective that a question may ask about."
+  },
+  {
+    "id": 104,
+    "domain": "listening_part_5_discussion",
+    "front": "How many answer options are given for Listening Part 5 questions?",
+    "back": "As with all Listening parts, each question offers 4 options, A through D, and only one option accurately reflects what was said in the discussion."
+  },
+  {
+    "id": 105,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to have a point\" mean when a speaker agrees with another?",
+    "back": "It means acknowledging that what another person said is valid or reasonable. This phrase in a Part 5 discussion signals partial or full agreement, which is different from a speaker fully disagreeing."
+  },
+  {
+    "id": 106,
+    "domain": "listening_part_5_discussion",
+    "front": "What common trap arises when multiple speakers discuss the same topic with different opinions?",
+    "back": "Answer options may attribute one speaker's opinion to a different speaker. Careful tracking of each individual's stance throughout the discussion prevents this mix-up."
+  },
+  {
+    "id": 107,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to play devil's advocate\" mean?",
+    "back": "It means to argue an opposing position, not necessarily because you believe it, but to test or explore an idea further. A speaker playing devil's advocate in Part 5 is not always stating their true opinion."
+  },
+  {
+    "id": 108,
+    "domain": "listening_part_5_discussion",
+    "front": "Why is it useful to identify the overall topic of a Part 5 discussion early?",
+    "back": "Identifying the topic early helps you organize incoming details under the right subject, making it easier to sort each speaker's related comments as the discussion continues."
+  },
+  {
+    "id": 109,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to build on someone's idea\" mean?",
+    "back": "It means to add further detail or development to a point someone else has already made, rather than introducing a completely separate idea. This shows agreement combined with an extension of the topic."
+  },
+  {
+    "id": 110,
+    "domain": "listening_part_5_discussion",
+    "front": "What trap involves partial agreement in a Part 5 discussion?",
+    "back": "A speaker might agree with part of another's statement while disagreeing with another part. Treating this as full agreement or full disagreement, rather than the nuanced position actually expressed, is a common mistake."
+  },
+  {
+    "id": 111,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to see eye to eye\" mean?",
+    "back": "It means to agree completely with someone on a topic. If two Part 5 speakers do not see eye to eye, it signals a genuine disagreement rather than minor differences in wording."
+  },
+  {
+    "id": 112,
+    "domain": "listening_part_5_discussion",
+    "front": "How can you keep track of shifting group consensus in a longer Part 5 discussion?",
+    "back": "Note briefly whenever the group appears to reach agreement or when a new disagreement arises, since a shift in consensus partway through is often what a concluding question is designed to test."
+  },
+  {
+    "id": 113,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to bring up a counterpoint\" mean?",
+    "back": "It means to introduce an argument or fact that opposes a previous statement. Recognizing a counterpoint in Part 5 helps identify which speaker holds an opposing view on the discussion topic."
+  },
+  {
+    "id": 114,
+    "domain": "listening_part_5_discussion",
+    "front": "What trap involves a speaker who initially states one opinion but is later persuaded to soften it?",
+    "back": "Part 5 speakers sometimes start firm on a position and shift after hearing the other person's argument, so an answer describing only their original opening stance can be wrong if a question asks for their final view."
+  },
+  {
+    "id": 115,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to reach a consensus\" mean?",
+    "back": "It means for a group to arrive at a shared agreement after discussion. A Part 5 conversation that reaches a consensus has moved past individual disagreement to a collective decision or view."
+  },
+  {
+    "id": 116,
+    "domain": "listening_part_5_discussion",
+    "front": "Why can Part 5 feel more demanding than Parts 1 or 2?",
+    "back": "With more speakers and often more topics or subpoints raised, there is more information to organize mentally within a single playback, which is why concise real-time tracking is especially valuable here."
+  },
+  {
+    "id": 117,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to steer the conversation\" mean?",
+    "back": "It means to guide a discussion toward a particular subject or direction. A speaker who steers the conversation in Part 5 is actively shaping which topic gets discussed next."
+  },
+  {
+    "id": 118,
+    "domain": "listening_part_5_discussion",
+    "front": "What trap involves a speaker who initially disagrees but is later persuaded?",
+    "back": "If a question asks for a speaker's final position, an early disagreement followed by a later change of mind means the earlier statement is not the correct answer to a question about their ultimate view."
+  },
+  {
+    "id": 119,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to have reservations about something\" mean?",
+    "back": "It means to feel some doubt or concern about an idea, without fully rejecting it. A speaker with reservations in Part 5 is neither fully for nor fully against the point under discussion."
+  },
+  {
+    "id": 120,
+    "domain": "listening_part_5_discussion",
+    "front": "Why is quick shorthand notation, like initials for names, helpful in Part 5?",
+    "back": "Using a simple initial or symbol for each speaker as they talk lets you quickly note who said what without slowing down, which matters since the discussion plays only once at natural speed."
+  },
+  {
+    "id": 121,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to concede a point\" mean?",
+    "back": "It means to admit that part of an opposing argument is correct, even while maintaining an overall different position. A speaker conceding a point in Part 5 is not necessarily abandoning their main view."
+  },
+  {
+    "id": 122,
+    "domain": "listening_part_5_discussion",
+    "front": "What trap involves overlapping topics in a Part 5 discussion with several subtopics?",
+    "back": "Speakers may move between related subtopics quickly. A detail correct for one subtopic can be wrongly applied to a different but related subtopic if you are not tracking the current focus of the discussion."
+  },
+  {
+    "id": 123,
+    "domain": "listening_part_5_discussion",
+    "front": "What does \"to back someone up\" mean?",
+    "back": "It means to support another person's opinion or statement. In Part 5, one speaker backing up another signals agreement, forming a pair or group with a shared position on the topic."
+  },
+  {
+    "id": 124,
+    "domain": "listening_part_5_discussion",
+    "front": "Why should a Part 5 question about the discussion's overall conclusion be approached carefully?",
+    "back": "The overall conclusion may differ from any single speaker's individual opinion stated earlier, since it reflects where the group ends up after all viewpoints have been exchanged."
+  },
+  {
+    "id": 125,
+    "domain": "listening_part_5_discussion",
+    "front": "Since Listening is only one of four separately scored skills, how should Part 5's difficulty be viewed in preparation?",
+    "back": "As one part contributing to your overall Listening CLB score, not a determinant of your Reading, Writing, or Speaking scores, which are assessed completely independently under the CLB 4 to 12 scale."
+  },
+  {
+    "id": 126,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What is the focus of Listening Part 6?",
+    "back": "Part 6 presents one speaker expressing a personal viewpoint on a single issue, supporting it with reasons, and often acknowledging a counterargument before returning to defend or soften their own position."
+  },
+  {
+    "id": 127,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"a viewpoint\" mean?",
+    "back": "A viewpoint is a particular way of looking at or thinking about a situation or issue. Part 6 is specifically built around comparing different viewpoints on the same topic."
+  },
+  {
+    "id": 128,
+    "domain": "listening_part_6_viewpoints",
+    "front": "As the final part of the Listening section, what should you keep in mind about pacing for Part 6?",
+    "back": "Since Part 6 is the last of 6 parts within the roughly 46 to 55 minute Listening section, maintaining focus through to the end matters just as much as at the start, even if attention has been sustained for a while."
+  },
+  {
+    "id": 129,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to hold a differing view\" mean?",
+    "back": "Part 6 passages are structured around one speaker who holds and defends a clear personal view, so identifying that speaker's position (and whether it shifts by the end) is central."
+  },
+  {
+    "id": 130,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What common trap involves a speaker's concession in Part 6?",
+    "back": "A speaker may briefly acknowledge an opposing view using a phrase like 'admittedly' or 'of course,' but this is not necessarily their final position; listen for whether they concede the point fully or counter it and return to their original claim."
+  },
+  {
+    "id": 131,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to be in favour of something\" mean, versus \"to be opposed to something\"?",
+    "back": "In favour of means supporting an idea, while opposed to means against it. These are core phrases for Part 6, since questions frequently ask which speaker is in favour of or opposed to a given proposal."
+  },
+  {
+    "id": 132,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What trap involves a speaker's supporting reason versus their overall stance in Part 6?",
+    "back": "A speaker may give several reasons, some seeming to support and some seeming to question an idea, while still holding one clear overall stance. Identify the speaker's final position rather than any single reason in isolation."
+  },
+  {
+    "id": 133,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to take a stance\" mean?",
+    "back": "It means to adopt and express a clear position on an issue. A Part 6 speaker who takes a stance is stating their opinion directly, which is usually the detail a related question is checking."
+  },
+  {
+    "id": 134,
+    "domain": "listening_part_6_viewpoints",
+    "front": "Why is it helpful to note the strength of an opinion, not just its direction, in Part 6?",
+    "back": "A speaker might mildly agree or strongly agree with an idea, and some questions test this degree of intensity, so noting whether a view is strong or weak, not just positive or negative, adds useful precision."
+  },
+  {
+    "id": 135,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to have a valid point\" mean?",
+    "back": "It means that an argument someone makes is logical and reasonable, even if the listener does not fully agree with the overall conclusion. A speaker acknowledging a valid point in Part 6 is not necessarily changing their own stance."
+  },
+  {
+    "id": 136,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What trap involves questions asking for the reason behind a viewpoint in Part 6?",
+    "back": "...choosing a reason the speaker used to illustrate a different point, or the counterargument the speaker only raised to address it, instead of the actual reason asked about, is a common mistake."
+  },
+  {
+    "id": 137,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to be skeptical of something\" mean?",
+    "back": "It means to doubt or question the truth or value of an idea. A skeptical speaker in Part 6 is expressing a critical viewpoint, distinct from a speaker who is simply neutral or undecided."
+  },
+  {
+    "id": 138,
+    "domain": "listening_part_6_viewpoints",
+    "front": "Why should you avoid assuming the speaker's opening sentence is a supporting reason rather than the main claim in Part 6?",
+    "back": "Part 6 speakers usually state their central opinion in the first sentence or two using opinion language like 'I believe' or 'in my view,' so treating an early supporting reason as if it were the main claim, or vice versa, is the actual risk since there is only one speaker's position to track."
+  },
+  {
+    "id": 139,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to shift one's position\" mean?",
+    "back": "It means to change one's opinion or stance during a conversation, often after hearing a persuasive point. A speaker who shifts position in Part 6 ends with a different view than they started with."
+  },
+  {
+    "id": 140,
+    "domain": "listening_part_6_viewpoints",
+    "front": "Why is it useful to track how confidently a Part 6 speaker states each part of their argument?",
+    "back": "The same speaker may sound confident about their main claim but more tentative when acknowledging a counterargument, and this shift in certainty can signal which part of the passage is the true final position."
+  },
+  {
+    "id": 141,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to raise a concern\" mean?",
+    "back": "It means to mention a worry or potential problem related to a topic. A speaker who raises a concern in Part 6 may not be fully against an idea, only cautious about one specific aspect of it."
+  },
+  {
+    "id": 142,
+    "domain": "listening_part_6_viewpoints",
+    "front": "Why is completing your Part 6 answers with fresh attention important since it is the final Listening part?",
+    "back": "Fatigue near the end of a long section can lead to careless mistakes on otherwise clear questions, so treating Part 6 with the same care as Part 1 helps protect your overall Listening CLB score."
+  },
+  {
+    "id": 143,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to remain neutral on an issue\" mean?",
+    "back": "It means not clearly favouring either side of a debate. A speaker who remains neutral in Part 6 should not be matched to an answer option describing a strong opinion in either direction."
+  },
+  {
+    "id": 144,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What trap involves a Part 6 question asking about the speaker's overall stance after a concession?",
+    "back": "A speaker may concede that a counterargument has some merit, but the correct answer to a question about their overall stance is usually their original claim (or an explicitly stated softened version of it), not the concession itself treated as their final view."
+  },
+  {
+    "id": 145,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to make a compelling case\" mean?",
+    "back": "It means to argue a position persuasively and convincingly. A speaker described as making a compelling case in Part 6 is presenting strong supporting reasons for their viewpoint, which can be the focus of a related question."
+  },
+  {
+    "id": 146,
+    "domain": "listening_part_6_viewpoints",
+    "front": "How can reviewing common opinion-language phrases before test day help with Part 6?",
+    "back": "Recognizing phrases like in favour of, opposed to, skeptical of, and on balance quickly, without needing to translate them mentally, frees attention to focus on tracking which speaker holds which viewpoint."
+  },
+  {
+    "id": 147,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"on balance\" mean when a speaker uses it to summarize their view?",
+    "back": "It means considering everything together, weighing both positives and negatives, before reaching an overall judgment. A speaker who says \"on balance\" is giving their final, most complete opinion after discussing multiple points."
+  },
+  {
+    "id": 148,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What trap involves the very first sentence of a Part 6 passage?",
+    "back": "The first sentence often only introduces the general topic before the speaker's actual opinion is stated a sentence or two later using clear opinion language, so treating the topic introduction itself as the main claim can lead to too broad or vague an answer."
+  },
+  {
+    "id": 149,
+    "domain": "listening_part_6_viewpoints",
+    "front": "What does \"to hold firm\" mean?",
+    "back": "It means to maintain one's opinion without changing it, even after hearing opposing arguments. A speaker who holds firm in Part 6 ends the discussion with the same stance they started with."
+  },
+  {
+    "id": 150,
+    "domain": "listening_part_6_viewpoints",
+    "front": "After finishing Listening Part 6, what should you remember about how this section's score relates to Reading, which comes next?",
+    "back": "Listening receives its own separate CLB score and has no bearing on the separately scored Reading section that follows, so approach Reading with a fresh outlook regardless of how Listening felt."
+  },
+  {
+    "id": 151,
+    "domain": "reading_part_1_correspondence",
+    "front": "What is the total scored question count and structure of the CELPIP-General Reading section?",
+    "back": "Reading has 38 scored questions across 4 parts, taking approximately 43 to 56 minutes overall. Unlike Listening, Reading is self-paced with no forced per-part timer."
+  },
+  {
+    "id": 152,
+    "domain": "reading_part_1_correspondence",
+    "front": "What type of text does Reading Part 1 typically use?",
+    "back": "Reading Part 1 centres on correspondence, such as a letter, email, or written message between people, often about a personal or practical matter that you then answer questions about."
+  },
+  {
+    "id": 153,
+    "domain": "reading_part_1_correspondence",
+    "front": "Since Reading is self-paced, what should you keep in mind about time management across all 4 parts?",
+    "back": "Because there is no forced timer per part, you control how much time you spend on each part within the overall 43 to 56 minute allowance, so pacing yourself across all 4 parts is your own responsibility."
+  },
+  {
+    "id": 154,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to correspond with someone\" mean?",
+    "back": "It means to communicate with someone regularly through letters, emails, or messages. Reading Part 1's correspondence format is built around this kind of written exchange."
+  },
+  {
+    "id": 155,
+    "domain": "reading_part_1_correspondence",
+    "front": "How many options are given per Reading Part 1 question?",
+    "back": "As with every Reading part, each question has 4 options, A through D, and you choose the single best answer based on what the correspondence actually states."
+  },
+  {
+    "id": 156,
+    "domain": "reading_part_1_correspondence",
+    "front": "What is a good first step when starting a Reading Part 1 correspondence passage?",
+    "back": "Quickly note who is writing to whom and the general purpose of the message before reading in detail, since this framing helps you interpret specific sentences correctly as you continue reading."
+  },
+  {
+    "id": 157,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to request something\" mean, and why is it relevant in Part 1?",
+    "back": "It means to formally or politely ask for something. Correspondence passages frequently centre on one person requesting information, help, or an action from another, making the specific request a common question topic."
+  },
+  {
+    "id": 158,
+    "domain": "reading_part_1_correspondence",
+    "front": "What common trap involves an answer option that sounds plausible but isn't stated?",
+    "back": "An option can sound like a reasonable, natural continuation of the letter's topic without being supported by the text. Always confirm the option matches what is explicitly said or clearly implied, not just what would make sense in context."
+  },
+  {
+    "id": 159,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to apologize for an inconvenience\" mean?",
+    "back": "It means to express regret for a problem or difficulty caused to someone. This phrase commonly appears in correspondence where the writer is addressing a mistake or delay."
+  },
+  {
+    "id": 160,
+    "domain": "reading_part_1_correspondence",
+    "front": "Why is it important to notice the relationship between the writer and reader in a Part 1 letter?",
+    "back": "The relationship, such as coworkers, a customer and a company, or friends, affects the tone and formality of the language used, which can help you correctly interpret polite requests, complaints, or explanations."
+  },
+  {
+    "id": 161,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to follow up on a previous message\" mean?",
+    "back": "It means to send another message continuing a topic that was already raised earlier. A Part 1 correspondence passage might be this kind of follow-up, so noticing references to an earlier exchange helps set context."
+  },
+  {
+    "id": 162,
+    "domain": "reading_part_1_correspondence",
+    "front": "What trap involves multiple requests or points in one correspondence passage?",
+    "back": "A single letter or email might raise more than one issue or request. A question asking for a specific detail can be answered wrong if you match it to a different point raised in the same passage."
+  },
+  {
+    "id": 163,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to clarify\" mean?",
+    "back": "It means to make something clearer or easier to understand, often by explaining it in more detail. A correspondence writer might ask the reader to clarify a point, which signals that something in an earlier message was unclear."
+  },
+  {
+    "id": 164,
+    "domain": "reading_part_1_correspondence",
+    "front": "Since Reading is self-paced, is it a good idea to reread a confusing sentence in Part 1 if needed?",
+    "back": "Yes. Unlike the Listening audio, which plays only once, Reading passages remain visible, so rereading a confusing sentence or checking a detail again is both possible and often useful."
+  },
+  {
+    "id": 165,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to express appreciation\" mean?",
+    "back": "It means to show thanks or gratitude for something. Correspondence often closes with an expression of appreciation, which can be a useful clue to the overall tone of the message being tested."
+  },
+  {
+    "id": 166,
+    "domain": "reading_part_1_correspondence",
+    "front": "What trap involves tone in a Reading Part 1 correspondence question?",
+    "back": "A question might ask about the writer's tone, such as frustrated, polite, or urgent. Choosing an overly extreme tone description when the actual wording is measured and polite is a common error."
+  },
+  {
+    "id": 167,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to confirm receipt\" mean?",
+    "back": "It means to acknowledge that something, such as a document or payment, has been received. This phrase commonly appears in professional correspondence, and its presence often signals that an earlier item has arrived successfully."
+  },
+  {
+    "id": 168,
+    "domain": "reading_part_1_correspondence",
+    "front": "Why might skimming the whole correspondence passage once before answering questions be helpful?",
+    "back": "An initial skim gives you a sense of the overall structure and main purpose, which makes it faster and more accurate to locate specific details when you return to the text for each individual question."
+  },
+  {
+    "id": 169,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to enclose something\" mean in written correspondence?",
+    "back": "It means to include an additional item along with a letter or email, such as a document or attachment. A writer who says they are enclosing something is providing extra material beyond the main message."
+  },
+  {
+    "id": 170,
+    "domain": "reading_part_1_correspondence",
+    "front": "What trap involves synonyms between the passage and the answer options in Reading Part 1?",
+    "back": "Correct answers are often paraphrased using different words than the passage, while incorrect options may reuse the passage's exact wording out of context. Focus on matching meaning, not just matching identical words."
+  },
+  {
+    "id": 171,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to address a concern\" mean?",
+    "back": "It means to respond to and deal with a worry or issue that has been raised. A reply in a Part 1 correspondence passage often addresses a concern mentioned in an earlier message within the exchange."
+  },
+  {
+    "id": 172,
+    "domain": "reading_part_1_correspondence",
+    "front": "Why is understanding the sequence of an email exchange important in Part 1?",
+    "back": "Some passages present more than one message in a thread, and misreading which message came first can lead to confusion about what was already resolved versus what is still an open issue."
+  },
+  {
+    "id": 173,
+    "domain": "reading_part_1_correspondence",
+    "front": "What does \"to reach out to someone\" mean?",
+    "back": "It means to contact someone, often to ask for help or information. A correspondence writer describing why they are reaching out is usually stating the main purpose of their message."
+  },
+  {
+    "id": 174,
+    "domain": "reading_part_1_correspondence",
+    "front": "What trap involves a polite refusal in a Part 1 correspondence passage?",
+    "back": "A writer may decline a request politely using softened language rather than a direct no. Missing a softened refusal and assuming agreement instead is a common misunderstanding in correspondence-based questions."
+  },
+  {
+    "id": 175,
+    "domain": "reading_part_1_correspondence",
+    "front": "Is the Reading CLB score combined with the Listening CLB score on the final CELPIP-General results?",
+    "back": "No. Reading and Listening are each reported as their own separate CLB score from 4 to 12, or M if below 4, with no combined total across the two skills."
+  },
+  {
+    "id": 176,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does Reading Part 2 typically ask you to interpret?",
+    "back": "Part 2 involves a diagram or visual layout, such as an advertisement, notice, or form, paired with related written text, testing your ability to interpret and apply information presented visually alongside text."
+  },
+  {
+    "id": 177,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"to interpret a diagram\" mean?",
+    "back": "It means to understand and explain the meaning of information presented visually, such as in a chart, form, or layout. Part 2 specifically tests this skill by combining visual and written information."
+  },
+  {
+    "id": 178,
+    "domain": "reading_part_2_diagram_application",
+    "front": "Why should you examine labels and headings in a Part 2 diagram carefully before answering questions?",
+    "back": "Labels and headings often indicate exactly which section of the diagram contains the information needed for a specific question, saving time compared to searching the whole layout randomly."
+  },
+  {
+    "id": 179,
+    "domain": "reading_part_2_diagram_application",
+    "front": "How many options does each Reading Part 2 question offer?",
+    "back": "Each question offers 4 options, A through D, consistent with the format used throughout both the Listening and Reading sections of CELPIP-General."
+  },
+  {
+    "id": 180,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"eligibility criteria\" mean in the context of an application form?",
+    "back": "Eligibility criteria are the specific requirements a person must meet to qualify for something, such as a program or service. Part 2 diagrams describing an application often list these criteria clearly."
+  },
+  {
+    "id": 181,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What common trap involves footnotes or small print in a Reading Part 2 diagram?",
+    "back": "Important exceptions or conditions are sometimes placed in small print or footnotes attached to a diagram. Overlooking this text and relying only on the main labels can lead to an incorrect answer."
+  },
+  {
+    "id": 182,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"to fill out a form\" mean?",
+    "back": "It means to complete a document by providing the requested information in the correct fields. Part 2 passages about applications or registrations often relate directly to how a form should be filled out."
+  },
+  {
+    "id": 183,
+    "domain": "reading_part_2_diagram_application",
+    "front": "Why is it useful to compare numbers or dates across different sections of a Part 2 diagram?",
+    "back": "A diagram may present different fees, dates, or quantities in separate sections, such as regular versus discounted rates, and a question may require correctly matching a condition to its specific corresponding value."
+  },
+  {
+    "id": 184,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"a deadline\" mean, and why does it matter for Part 2 diagrams?",
+    "back": "A deadline is the latest date or time by which something must be completed. Application-style diagrams in Part 2 often list one or more deadlines, and questions may test whether you can identify the correct one."
+  },
+  {
+    "id": 185,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What trap involves a diagram that lists multiple tiers or categories, such as pricing levels?",
+    "back": "Each tier may have its own set of conditions or benefits. Applying a detail from one tier to a question about a different tier is a common mistake when the categories are visually similar."
+  },
+  {
+    "id": 186,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"to qualify for a discount\" mean?",
+    "back": "It means to meet the specific conditions required to receive a reduced price. Part 2 diagrams about pricing or membership plans often specify separate conditions for qualifying for different discounts."
+  },
+  {
+    "id": 187,
+    "domain": "reading_part_2_diagram_application",
+    "front": "Why should you read any accompanying paragraph text in Part 2, not just the diagram itself?",
+    "back": "The written text accompanying a diagram sometimes provides context, exceptions, or instructions not shown visually, and questions can require combining information from both the diagram and the surrounding text."
+  },
+  {
+    "id": 188,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"to submit an application\" mean?",
+    "back": "It means to formally send in a completed application for consideration. Reading Part 2 diagrams about processes frequently describe the required steps for submitting an application correctly."
+  },
+  {
+    "id": 189,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What trap involves a diagram showing a process with several steps in a specific order?",
+    "back": "A question might ask what comes before or after a certain step. Because visual layouts do not always read in a strict line-by-line order, misreading the sequence of steps is a common Part 2 error."
+  },
+  {
+    "id": 190,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"to be valid until a certain date\" mean?",
+    "back": "It means that something remains usable or in effect only up to a specified date, after which it expires. Diagrams about permits, tickets, or memberships often state validity periods this way."
+  },
+  {
+    "id": 191,
+    "domain": "reading_part_2_diagram_application",
+    "front": "Why can visual scanning skills help specifically with Reading Part 2?",
+    "back": "Since information is presented in a non-linear visual layout rather than flowing paragraphs, being able to scan across sections, boxes, or columns efficiently helps you locate the exact detail a question is asking about."
+  },
+  {
+    "id": 192,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"to be applicable only to new customers\" mean as a stated condition?",
+    "back": "It means the described benefit or rule applies exclusively to new customers and not to existing ones. Conditions like this in a Part 2 diagram narrow who a rule applies to, which is often exactly what a question tests."
+  },
+  {
+    "id": 193,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What trap involves a diagram with a comparison table between two or more options?",
+    "back": "A comparison table lists features side by side for each option. Selecting a feature that belongs to a neighbouring column instead of the one asked about is a frequent mistake when scanning quickly."
+  },
+  {
+    "id": 194,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"to be excluded from an offer\" mean?",
+    "back": "It means something is specifically not included within a stated promotion or benefit. Part 2 diagrams describing offers often list exclusions separately from the main benefits, and missing this list is a common error source."
+  },
+  {
+    "id": 195,
+    "domain": "reading_part_2_diagram_application",
+    "front": "Since Reading Part 2 is self-paced, is it worthwhile to look back and forth between the diagram and a specific question more than once?",
+    "back": "Yes. Because there is no forced per-part timer, returning to compare the diagram against the exact wording of a question as many times as needed is a reasonable and often effective strategy."
+  },
+  {
+    "id": 196,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"a notice\" mean as a type of written document?",
+    "back": "A notice is a short, formal announcement providing information to a group of people, such as residents or customers. Part 2 sometimes uses a notice format combined with a diagram or layout element."
+  },
+  {
+    "id": 197,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What trap involves rounding or approximate figures shown in a Part 2 diagram?",
+    "back": "A diagram might show a figure described as approximate, such as an estimated cost, while a question asks for an exact stated amount elsewhere. Confusing an approximate figure with an exact one can lead to a wrong answer."
+  },
+  {
+    "id": 198,
+    "domain": "reading_part_2_diagram_application",
+    "front": "What does \"to be included at no extra cost\" mean?",
+    "back": "It means a feature or item comes with the main offer without any additional payment required. This phrase in a Part 2 diagram distinguishes included features from optional add-ons that do cost extra."
+  },
+  {
+    "id": 199,
+    "domain": "reading_part_2_diagram_application",
+    "front": "Why is it useful to underline or mentally flag key numbers while reading a Part 2 diagram?",
+    "back": "Diagrams often contain several similar numbers, such as fees, dates, and quantities placed close together, and flagging each one to its label helps prevent mixing them up when answering later questions."
+  },
+  {
+    "id": 200,
+    "domain": "reading_part_2_diagram_application",
+    "front": "Does performance on the visually complex Reading Part 2 affect your separately scored Writing result?",
+    "back": "No. Reading and Writing are scored completely separately on the CLB scale, so how you perform interpreting a Part 2 diagram has no direct bearing on your Writing score."
+  },
+  {
+    "id": 201,
+    "domain": "reading_part_3_information",
+    "front": "What kind of passage is used in Reading Part 3?",
+    "back": "Reading Part 3 uses an informational passage, typically explaining a topic, situation, or set of facts in continuous prose, similar in spirit to Listening Part 3 but presented as a written text."
+  },
+  {
+    "id": 202,
+    "domain": "reading_part_3_information",
+    "front": "What does \"the main idea\" of a passage mean?",
+    "back": "The main idea is the central point or overall message the passage is communicating, as opposed to specific supporting details. Reading Part 3 often includes at least one question testing the main idea directly."
+  },
+  {
+    "id": 203,
+    "domain": "reading_part_3_information",
+    "front": "How many answer options are typically given for a Reading Part 3 question?",
+    "back": "Each question offers 4 options, A through D, and the correct choice must be supported by information actually stated or clearly implied in the passage."
+  },
+  {
+    "id": 204,
+    "domain": "reading_part_3_information",
+    "front": "What does \"to imply something\" mean, versus \"to state something directly\"?",
+    "back": "To imply means to suggest something indirectly without saying it outright, while to state means to say something explicitly. Some Part 3 questions test implied meaning, which requires reading between the lines rather than finding an exact quote."
+  },
+  {
+    "id": 205,
+    "domain": "reading_part_3_information",
+    "front": "What common trap involves an option that repeats exact words from the passage in Reading Part 3?",
+    "back": "An option might use exact phrases from the passage but combine them in a way that changes the original meaning. Always verify that an option's overall claim matches the passage's actual meaning, not only its vocabulary."
+  },
+  {
+    "id": 206,
+    "domain": "reading_part_3_information",
+    "front": "What does \"to elaborate on a point\" mean?",
+    "back": "It means to explain something in more detail after first mentioning it briefly. Recognizing where a Part 3 passage elaborates helps you find the fuller explanation a detail-based question may be asking about."
+  },
+  {
+    "id": 207,
+    "domain": "reading_part_3_information",
+    "front": "Why is skimming a Part 3 passage for structure before answering questions often effective?",
+    "back": "Noticing the general order of ideas, such as an introduction followed by supporting points and a conclusion, helps you predict roughly where in the passage to look for the answer to each specific question."
+  },
+  {
+    "id": 208,
+    "domain": "reading_part_3_information",
+    "front": "What does \"a contributing factor\" mean?",
+    "back": "A contributing factor is one of several things that helps cause a particular result, without necessarily being the only cause. Part 3 passages explaining a situation often list multiple contributing factors."
+  },
+  {
+    "id": 209,
+    "domain": "reading_part_3_information",
+    "front": "What trap involves absolute words like \"always\" or \"never\" in Part 3 answer options?",
+    "back": "An option containing an absolute word is often incorrect if the passage only supports a more limited or qualified statement. Compare the strength of the option's claim against the actual wording used in the passage."
+  },
+  {
+    "id": 210,
+    "domain": "reading_part_3_information",
+    "front": "What does \"to support a claim with evidence\" mean?",
+    "back": "It means to back up a statement using facts, examples, or data. Part 3 passages that make a claim often follow it with supporting evidence, and questions may ask you to identify this supporting detail."
+  },
+  {
+    "id": 211,
+    "domain": "reading_part_3_information",
+    "front": "Why might reading the final paragraph of a Reading Part 3 passage carefully help with main idea questions?",
+    "back": "Concluding paragraphs often summarize or restate the passage's central point, so paying close attention there can confirm or clarify your understanding of the main idea tested elsewhere."
+  },
+  {
+    "id": 212,
+    "domain": "reading_part_3_information",
+    "front": "What does \"a counterargument\" mean?",
+    "back": "A counterargument is a point that opposes or challenges the main argument being presented. Some Part 3 passages present a counterargument before responding to it, and understanding this structure clarifies the passage's overall stance."
+  },
+  {
+    "id": 213,
+    "domain": "reading_part_3_information",
+    "front": "What trap involves a detail mentioned only briefly near the end of a Part 3 passage?",
+    "back": "Test takers sometimes stop reading closely once they feel they understand the main idea, missing a specific detail mentioned later. Questions can specifically target these less obvious, later details."
+  },
+  {
+    "id": 214,
+    "domain": "reading_part_3_information",
+    "front": "What does \"to draw a conclusion\" mean?",
+    "back": "It means to form a judgment or decision based on given information. A Part 3 question asking what conclusion can be drawn requires combining passage details logically, not simply locating one directly stated sentence."
+  },
+  {
+    "id": 215,
+    "domain": "reading_part_3_information",
+    "front": "Why is paragraph-by-paragraph annotation, even brief, a useful Part 3 strategy?",
+    "back": "Jotting a short label for each paragraph's main content as you read, such as \"background\" or \"example,\" makes it much faster to return to the correct section when answering a specific question afterward."
+  },
+  {
+    "id": 216,
+    "domain": "reading_part_3_information",
+    "front": "What does \"to be consistent with\" mean?",
+    "back": "It means to agree with or not contradict another statement or fact. A question asking which option is consistent with the passage requires checking that the option does not conflict with anything the passage states."
+  },
+  {
+    "id": 217,
+    "domain": "reading_part_3_information",
+    "front": "What trap involves a passage discussing both a general trend and a specific exception?",
+    "back": "A question may ask about the exception specifically, and choosing an option describing only the general trend, ignoring the stated exception, is a common way to answer such a question incorrectly."
+  },
+  {
+    "id": 218,
+    "domain": "reading_part_3_information",
+    "front": "What does \"to be irrelevant to the discussion\" mean?",
+    "back": "It means unrelated to or not important for the specific topic being discussed. Recognizing when an answer option, though factually true elsewhere, is irrelevant to the specific point a question addresses helps eliminate wrong choices."
+  },
+  {
+    "id": 219,
+    "domain": "reading_part_3_information",
+    "front": "What does \"to generalize\" mean?",
+    "back": "It means to form a broad statement based on limited or specific information. Reading Part 3 questions sometimes test whether an answer option makes an unsupported generalization beyond what the passage actually supports."
+  },
+  {
+    "id": 220,
+    "domain": "reading_part_3_information",
+    "front": "Why is comparing two closely worded answer options directly against each other useful in Part 3?",
+    "back": "When two options seem similar, placing them side by side and identifying the exact difference in wording, rather than rereading the whole passage again, often reveals which one truly matches the passage's meaning."
+  },
+  {
+    "id": 221,
+    "domain": "reading_part_3_information",
+    "front": "What does \"to be plausible\" mean, versus \"to be certain\"?",
+    "back": "Plausible means reasonably believable but not confirmed, while certain means definitely established as fact. Some Part 3 options describe only plausible outcomes, which should not be confused with a firmly stated fact from the passage."
+  },
+  {
+    "id": 222,
+    "domain": "reading_part_3_information",
+    "front": "What trap involves vocabulary-in-context questions in Reading Part 3?",
+    "back": "A question may ask for the meaning of a word as used in the passage, but that word can have multiple general meanings. The correct answer must match how the word is specifically used in that sentence, not its most common dictionary sense."
+  },
+  {
+    "id": 223,
+    "domain": "reading_part_3_information",
+    "front": "What does \"to be a byproduct of something\" mean?",
+    "back": "It means to be a secondary result that occurs alongside a main effect or process. Part 3 passages describing processes or developments sometimes mention byproducts that are separate from the primary outcome."
+  },
+  {
+    "id": 224,
+    "domain": "reading_part_3_information",
+    "front": "Why is it helpful to reread only the relevant sentence, not the entire passage, when checking a specific detail question in Part 3?",
+    "back": "Since Reading is self-paced, targeted rereading of just the sentence or two most relevant to a question saves time compared to rereading the entire passage, while still confirming accuracy."
+  },
+  {
+    "id": 225,
+    "domain": "reading_part_3_information",
+    "front": "Because CELPIP-General has no fixed overall pass percentage, what should guide how you interpret your Reading Part 3 practice results?",
+    "back": "Focus on your practice accuracy and how it maps to the CLB 4 to 12 scale for Reading specifically, since there is no single universal pass mark and each skill is judged only against its own CLB benchmark descriptors."
+  },
+  {
+    "id": 226,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What is the focus of Reading Part 4?",
+    "back": "A short passage introducing a topic, followed by two or three named individuals who each give their own separate opinion on it."
+  },
+  {
+    "id": 227,
+    "domain": "reading_part_4_viewpoints",
+    "front": "As the final part of the Reading section, how does Part 4 fit within the self-paced 43 to 56 minute Reading time?",
+    "back": "Since Reading has no forced per-part timer, you decide how much of the overall time to allocate to Part 4 based on how much time remains after completing Parts 1 through 3."
+  },
+  {
+    "id": 228,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does \"an argument\" mean in the context of a viewpoint passage?",
+    "back": "An argument is a reasoned case made to support a particular position or conclusion. Reading Part 4 passages are often built around one or more arguments for and against a specific issue."
+  },
+  {
+    "id": 229,
+    "domain": "reading_part_4_viewpoints",
+    "front": "How many options does each Reading Part 4 question offer?",
+    "back": "Each question offers 4 options, A through D, consistent with the multiple choice format used across the entire Reading and Listening sections of CELPIP-General."
+  },
+  {
+    "id": 230,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does \"to weigh the pros and cons\" mean?",
+    "back": "It means to consider both the advantages and disadvantages of an issue before forming a judgment. Reading Part 4 passages that present balanced viewpoints often weigh pros and cons of the topic under discussion."
+  },
+  {
+    "id": 231,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What common trap involves a passage presenting two opposing views and then favouring one at the end?",
+    "back": "Do not assume the last named speaker's view represents the passage's own conclusion. CELPIP Part 4 passages do not favour a side; each named speaker's view stands on its own."
+  },
+  {
+    "id": 232,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does it mean when a named speaker in a Part 4 passage concedes a limitation?",
+    "back": "The speaker briefly acknowledges a weakness or exception in their own view before continuing to hold their overall position, which a careful reader must not mistake for a full change of opinion."
+  },
+  {
+    "id": 233,
+    "domain": "reading_part_4_viewpoints",
+    "front": "Why is identifying the writer's overall purpose useful for Reading Part 4?",
+    "back": "Identify each named speaker's individual purpose and stance, since the passage itself has no single purpose beyond a neutral framing sentence introducing the topic."
+  },
+  {
+    "id": 234,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does it mean when a named speaker in a Part 4 passage refutes another speaker's argument?",
+    "back": "That speaker directly addresses and disagrees with a specific point another named individual made, giving their own reasoning for why it does not hold up."
+  },
+  {
+    "id": 235,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What trap involves a rhetorical question used within a Reading Part 4 passage?",
+    "back": "A rhetorical question is asked for effect, not to seek an actual answer, and can be mistaken for a genuine question the passage is trying to answer. Understand it as emphasizing the writer's point rather than raising new information."
+  },
+  {
+    "id": 236,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What common trap involves a named speaker overstating a point in Part 4?",
+    "back": "A named speaker in a Part 4 passage may use strong or absolute language to overstate a point, and a question may ask you to notice this rather than take the claim at face value."
+  },
+  {
+    "id": 237,
+    "domain": "reading_part_4_viewpoints",
+    "front": "Why is distinguishing fact from opinion especially important in Reading Part 4?",
+    "back": "A specific named speaker's opinion rather than an established fact."
+  },
+  {
+    "id": 238,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does \"to be one-sided\" mean, versus \"to be balanced\"?",
+    "back": "A Part 4 question may ask you to judge whether one individual named speaker's view is one-sided or balanced, since the passage as a whole is not judged this way; it simply presents multiple people's separate opinions."
+  },
+  {
+    "id": 239,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What trap involves attributing one named speaker's opinion to the wrong person in Part 4?",
+    "back": "A distractor may quote or paraphrase one speaker's words but attribute them to a different named speaker. Always verify which person's paragraph a quoted opinion actually came from before answering."
+  },
+  {
+    "id": 240,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does \"to advocate for something\" mean?",
+    "back": "A named speaker who advocates for a position in Part 4 is not neutral."
+  },
+  {
+    "id": 241,
+    "domain": "reading_part_4_viewpoints",
+    "front": "Why is it useful to identify transition words like \"however\" or \"on the other hand\" in a Reading Part 4 passage?",
+    "back": "These words often signal a shift to an opposing viewpoint or a qualification of an earlier point, helping you correctly locate where the passage moves from one perspective to another."
+  },
+  {
+    "id": 242,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does it mean when a named speaker in a Part 4 passage undermines another speaker's argument?",
+    "back": "That speaker points out a weakness or flaw in a different named individual's reasoning, without necessarily refuting the whole argument outright."
+  },
+  {
+    "id": 243,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What trap involves an answer option that reflects a commonly held real-world belief rather than the passage's actual content?",
+    "back": "An option can sound reasonable based on general knowledge but not actually be supported by the specific passage. Always base your Reading Part 4 answer on the text itself, not on outside assumptions about the topic."
+  },
+  {
+    "id": 244,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does \"to qualify a statement\" mean?",
+    "back": "A named speaker who qualifies a statement in Part 4 adds a condition or exception to their own claim rather than stating it as an absolute."
+  },
+  {
+    "id": 245,
+    "domain": "reading_part_4_viewpoints",
+    "front": "Why is comparing the strength of language across two viewpoint paragraphs helpful in Reading Part 4?",
+    "back": "...can be exactly what a question about two named speakers' relative confidence or emphasis is testing."
+  },
+  {
+    "id": 246,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does \"to remain impartial\" mean?",
+    "back": "A named speaker described as impartial should not be matched with an answer option implying that same speaker strongly supports one side."
+  },
+  {
+    "id": 247,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What trap involves a Part 4 conclusion paragraph that briefly mentions a caveat?",
+    "back": "The conclusion may state an overall position while also briefly noting an exception or caveat. A question about a specific limitation requires locating this caveat rather than only the paragraph's main concluding statement."
+  },
+  {
+    "id": 248,
+    "domain": "reading_part_4_viewpoints",
+    "front": "What does \"to reach a balanced judgment\" mean?",
+    "back": "A named speaker, like Priya in the chapter's own worked example, may propose a compromise position between two other named speakers, since the passage itself never reaches a judgment on its own."
+  },
+  {
+    "id": 249,
+    "domain": "reading_part_4_viewpoints",
+    "front": "As you finish Reading Part 4, why is it useful to remember that all four CELPIP-General skills are reported separately?",
+    "back": "Reading, Listening, Writing, and Speaking each receive their own CLB score from 4 to 12, or M if below 4, with no combined total, so finishing Reading strongly or weakly does not by itself determine how any other skill will be scored."
+  },
+  {
+    "id": 250,
+    "domain": "reading_part_4_viewpoints",
+    "front": "Overall, what should guide your approach across all 10 Listening and Reading parts covered in this deck?",
+    "back": "Apply part-specific strategies, track speakers or viewpoints carefully, watch for common traps like changed decisions or misattributed opinions, and remember that CELPIP-General measures each skill separately with no fixed overall pass percentage."
+  },
+  {
+    "id": 251,
+    "domain": "writing_an_email",
+    "front": "How much time do you have for CELPIP Writing Task 1, Writing an Email?",
+    "back": "You have 27 minutes to plan, write, and check your email. Use most of that time for writing, but leave a few minutes at the end to proofread."
+  },
+  {
+    "id": 252,
+    "domain": "writing_an_email",
+    "front": "What is the target word count for the Writing an Email task?",
+    "back": "Your email should be between 150 and 200 words. Writing far under or far over this range can hurt your Task Fulfillment score."
+  },
+  {
+    "id": 253,
+    "domain": "writing_an_email",
+    "front": "How many points must you cover in the email prompt?",
+    "back": "The prompt always gives you three bullet points or requirements. All three must be clearly addressed for full task fulfillment."
+  },
+  {
+    "id": 254,
+    "domain": "writing_an_email",
+    "front": "What should you decide before writing your first sentence?",
+    "back": "Decide whether the situation calls for a formal or an informal tone. This choice affects your greeting, word choice, and sign-off throughout the email."
+  },
+  {
+    "id": 255,
+    "domain": "writing_an_email",
+    "front": "Give an example of a formal email greeting.",
+    "back": "'Dear Mr. Chan,' or 'Dear Sir or Madam,' are appropriate formal greetings when writing to a manager, landlord, or organization you do not know personally."
+  },
+  {
+    "id": 256,
+    "domain": "writing_an_email",
+    "front": "Give an example of an informal email greeting.",
+    "back": "'Hi Sarah,' or 'Hey Tom,' work well for informal emails to friends or family, matching the relaxed tone of the rest of the message."
+  },
+  {
+    "id": 257,
+    "domain": "writing_an_email",
+    "front": "What is a common formal email closing?",
+    "back": "'Sincerely,' 'Best regards,' or 'Yours truly,' followed by your name are standard formal closings that match a professional tone."
+  },
+  {
+    "id": 258,
+    "domain": "writing_an_email",
+    "front": "What is a good basic structure for the email body?",
+    "back": "Open with a brief reason for writing, use one paragraph per bullet point in the prompt, and end with a short closing statement before your sign-off."
+  },
+  {
+    "id": 259,
+    "domain": "writing_an_email",
+    "front": "Name two formal transition words useful in this task.",
+    "back": "'Furthermore' and 'In addition' both work well to connect ideas smoothly in a formal email without sounding repetitive."
+  },
+  {
+    "id": 260,
+    "domain": "writing_an_email",
+    "front": "Name two informal transition phrases useful in this task.",
+    "back": "'By the way' and 'Also' fit naturally into an informal email between friends, keeping the tone conversational."
+  },
+  {
+    "id": 261,
+    "domain": "writing_an_email",
+    "front": "What is the most common scoring mistake in this task?",
+    "back": "Leaving out one of the three required bullet points. Even a well written email loses marks on Task Fulfillment if a requirement is missing."
+  },
+  {
+    "id": 262,
+    "domain": "writing_an_email",
+    "front": "Why is mixing formal and informal language a problem?",
+    "back": "An inconsistent tone, such as slang in a business email or overly stiff language to a close friend, makes the writing feel unnatural and can lower your score."
+  },
+  {
+    "id": 263,
+    "domain": "writing_an_email",
+    "front": "How should you split your 27 minutes for this task?",
+    "back": "A reasonable split is about 3 to 4 minutes planning, 18 to 20 minutes writing, and 3 to 4 minutes checking your grammar and spelling."
+  },
+  {
+    "id": 264,
+    "domain": "writing_an_email",
+    "front": "Give a polite phrase for making a request in a formal email.",
+    "back": "'I would appreciate it if you could...' softens a request and sounds professional and courteous."
+  },
+  {
+    "id": 265,
+    "domain": "writing_an_email",
+    "front": "Give a phrase for apologizing in an email.",
+    "back": "'I apologize for any inconvenience this may cause' is a natural way to acknowledge a problem you are responsible for or reporting."
+  },
+  {
+    "id": 266,
+    "domain": "writing_an_email",
+    "front": "What should you do if the prompt gives the recipient's name?",
+    "back": "Use it in your greeting, for example 'Dear Ms. Patel,' rather than a generic greeting. This shows you read the prompt carefully."
+  },
+  {
+    "id": 267,
+    "domain": "writing_an_email",
+    "front": "What is a common structural mistake test takers make?",
+    "back": "Forgetting a closing sign-off entirely. Every email should end with an appropriate closing phrase and your name, even if invented."
+  },
+  {
+    "id": 268,
+    "domain": "writing_an_email",
+    "front": "Why should you vary your sentence structure in this task?",
+    "back": "Using only short simple sentences limits your Vocabulary and Readability scores. Mix simple and complex sentences to show range."
+  },
+  {
+    "id": 269,
+    "domain": "writing_an_email",
+    "front": "What should your final 2 to 3 minutes be used for?",
+    "back": "Reread your email for spelling errors, missing words, and grammar mistakes, and confirm all three bullet points are addressed."
+  },
+  {
+    "id": 270,
+    "domain": "writing_an_email",
+    "front": "Give a diplomatic phrase for making a complaint in an email.",
+    "back": "'I was disappointed to find that...' expresses dissatisfaction clearly without sounding overly aggressive or rude."
+  },
+  {
+    "id": 271,
+    "domain": "writing_an_email",
+    "front": "Give a phrase for making a suggestion in an email.",
+    "back": "'It might be helpful to...' or 'I suggest that...' introduce a recommendation politely, useful when proposing a solution."
+  },
+  {
+    "id": 272,
+    "domain": "writing_an_email",
+    "front": "Does the Writing an Email task include a picture?",
+    "back": "No, this task is text only. You are given a written scenario and bullet points with no accompanying image."
+  },
+  {
+    "id": 273,
+    "domain": "writing_an_email",
+    "front": "Do you need to write a subject line for the email?",
+    "back": "No, the focus of scoring is on the body of the email. Spend your time developing the greeting, body paragraphs, and closing instead."
+  },
+  {
+    "id": 274,
+    "domain": "writing_an_email",
+    "front": "Why is copying the prompt's exact wording a weak strategy?",
+    "back": "Simply repeating prompt language without developing it in your own words does not demonstrate real task fulfillment or vocabulary range."
+  },
+  {
+    "id": 275,
+    "domain": "writing_an_email",
+    "front": "What general categories is this task scored on?",
+    "back": "Your email is assessed on content and coherence, vocabulary, readability, and task fulfillment, so a well organized, complete response in your own words scores best."
+  },
+  {
+    "id": 276,
+    "domain": "responding_to_survey_questions",
+    "front": "How much time do you get for Writing Task 2, Responding to Survey Questions?",
+    "back": "You have 26 minutes to read the survey question, choose your position, and write your response."
+  },
+  {
+    "id": 277,
+    "domain": "responding_to_survey_questions",
+    "front": "What is the target word count for this task?",
+    "back": "Aim for 150 to 200 words, the same range as Task 1. Staying within this range supports a strong Task Fulfillment score."
+  },
+  {
+    "id": 278,
+    "domain": "responding_to_survey_questions",
+    "front": "What format does the survey prompt take?",
+    "back": "You are presented with a survey question and two options to choose from, and you must pick one option and support it with reasons."
+  },
+  {
+    "id": 279,
+    "domain": "responding_to_survey_questions",
+    "front": "How should you choose which option to write about?",
+    "back": "Pick the option you can support with the strongest reasons and examples, not necessarily the option you would truly choose in real life."
+  },
+  {
+    "id": 280,
+    "domain": "responding_to_survey_questions",
+    "front": "Where should you state your opinion in the response?",
+    "back": "State your chosen option clearly in the opening sentence or two, so the reader knows your position right away."
+  },
+  {
+    "id": 281,
+    "domain": "responding_to_survey_questions",
+    "front": "What is a solid structure for this essay-style response?",
+    "back": "Open with your opinion, write two body paragraphs each giving a reason with an example, and close with a short paragraph restating your view."
+  },
+  {
+    "id": 282,
+    "domain": "responding_to_survey_questions",
+    "front": "Give an opinion phrase useful for the opening sentence.",
+    "back": "'In my opinion' or 'I firmly believe that' are direct, natural ways to state your position at the start of the response."
+  },
+  {
+    "id": 283,
+    "domain": "responding_to_survey_questions",
+    "front": "Give a phrase for introducing a reason.",
+    "back": "'One reason is that...' or 'This is because...' clearly signal you are supporting your opinion with a specific reason."
+  },
+  {
+    "id": 284,
+    "domain": "responding_to_survey_questions",
+    "front": "Give a phrase for introducing an example.",
+    "back": "'For example' or 'For instance' work well to follow a general reason with a concrete, specific detail."
+  },
+  {
+    "id": 285,
+    "domain": "responding_to_survey_questions",
+    "front": "Give a phrase for the closing paragraph.",
+    "back": "'In conclusion' or 'Overall' signal that you are wrapping up and restating your position for the reader."
+  },
+  {
+    "id": 286,
+    "domain": "responding_to_survey_questions",
+    "front": "What is the most damaging structural mistake in this task?",
+    "back": "Not clearly choosing one option. A response that stays neutral or lists pros and cons of both sides without committing loses Task Fulfillment marks."
+  },
+  {
+    "id": 287,
+    "domain": "responding_to_survey_questions",
+    "front": "Why is switching your opinion mid-response a problem?",
+    "back": "Starting with one option and drifting toward the other confuses the reader and weakens the coherence of your argument."
+  },
+  {
+    "id": 288,
+    "domain": "responding_to_survey_questions",
+    "front": "Why do concrete examples matter in this task?",
+    "back": "A reason without a specific example or personal detail reads as generic. Examples make your argument more convincing and readable."
+  },
+  {
+    "id": 289,
+    "domain": "responding_to_survey_questions",
+    "front": "How should you divide your 26 minutes?",
+    "back": "Spend about 3 minutes deciding your position and planning reasons, 19 to 20 minutes writing, and 3 minutes checking your work."
+  },
+  {
+    "id": 290,
+    "domain": "responding_to_survey_questions",
+    "front": "Why should you use personal experience in this task?",
+    "back": "Drawing on a real or invented personal experience adds specific detail and makes your reasoning more persuasive and natural."
+  },
+  {
+    "id": 291,
+    "domain": "responding_to_survey_questions",
+    "front": "Name a linking word that shows contrast.",
+    "back": "'However' or 'On the other hand' let you briefly acknowledge the other option before returning to your own argument."
+  },
+  {
+    "id": 292,
+    "domain": "responding_to_survey_questions",
+    "front": "Name a linking word that adds emphasis.",
+    "back": "'Moreover' or 'Furthermore' add a second, stronger point to your argument, showing you can develop ideas beyond a single reason."
+  },
+  {
+    "id": 293,
+    "domain": "responding_to_survey_questions",
+    "front": "Why is answering the general topic instead of the specific question a mistake?",
+    "back": "The survey asks a specific question with two options. A response that discusses the broad topic without answering that exact question loses points."
+  },
+  {
+    "id": 294,
+    "domain": "responding_to_survey_questions",
+    "front": "Why is writing your response as a list a mistake?",
+    "back": "A bulleted list of points does not demonstrate paragraph structure or coherence. Write full sentences organized into paragraphs instead."
+  },
+  {
+    "id": 295,
+    "domain": "responding_to_survey_questions",
+    "front": "What should your final few minutes of the task be spent on?",
+    "back": "Proofread for spelling and grammar errors and confirm your word count falls in the 150 to 200 word range."
+  },
+  {
+    "id": 296,
+    "domain": "responding_to_survey_questions",
+    "front": "Does this task include an image?",
+    "back": "No, you are given a written survey question with two text options and no picture."
+  },
+  {
+    "id": 297,
+    "domain": "responding_to_survey_questions",
+    "front": "Give a phrase for expressing preference between the two options.",
+    "back": "'I would rather...' or 'I prefer...' are natural ways to state which option you are choosing over the other."
+  },
+  {
+    "id": 298,
+    "domain": "responding_to_survey_questions",
+    "front": "What is one grammar tip for a stronger response?",
+    "back": "Use complex sentences with connectors like 'although' or 'even though' to show you can express more sophisticated relationships between ideas."
+  },
+  {
+    "id": 299,
+    "domain": "responding_to_survey_questions",
+    "front": "What happens if your response is significantly under the word count?",
+    "back": "A response well under 150 words is unlikely to develop your reasons and examples fully, which weakens both content and task fulfillment scores."
+  },
+  {
+    "id": 300,
+    "domain": "responding_to_survey_questions",
+    "front": "What general categories is this task scored on?",
+    "back": "Like Task 1, this task is assessed on content and coherence, vocabulary, readability, and task fulfillment."
+  },
+  {
+    "id": 301,
+    "domain": "giving_advice",
+    "front": "How much preparation and response time do you get for Speaking Task 1, Giving Advice?",
+    "back": "You get 30 seconds to prepare and 90 seconds to respond, giving you time to plan quickly before speaking at length."
+  },
+  {
+    "id": 302,
+    "domain": "giving_advice",
+    "front": "What is the core requirement of this task?",
+    "back": "A scenario describes someone facing a decision or problem, and you must give clear advice, usually choosing between two options rather than staying neutral."
+  },
+  {
+    "id": 303,
+    "domain": "giving_advice",
+    "front": "Why is committing to one clear piece of advice important?",
+    "back": "Staying vague or refusing to choose weakens Task Fulfillment. A strong response clearly recommends one course of action and defends it."
+  },
+  {
+    "id": 304,
+    "domain": "giving_advice",
+    "front": "Give a phrase for stating your advice directly.",
+    "back": "'I think you should...' or 'If I were you, I would...' clearly signal that you are giving a recommendation, not just describing the situation."
+  },
+  {
+    "id": 305,
+    "domain": "giving_advice",
+    "front": "Give a softer phrase for offering advice.",
+    "back": "'You might want to consider...' or 'Perhaps it would be best to...' offer advice in a gentler, more diplomatic tone."
+  },
+  {
+    "id": 306,
+    "domain": "giving_advice",
+    "front": "What is the most common weakness in this task's responses?",
+    "back": "Running out of things to say before the 90 seconds end. Plan two or three supporting points during preparation to avoid long silences."
+  },
+  {
+    "id": 307,
+    "domain": "giving_advice",
+    "front": "What should you plan for in your 30 seconds of prep?",
+    "back": "Quickly decide your recommendation and think of two clear reasons that support it, so you are not thinking on the spot while speaking."
+  },
+  {
+    "id": 308,
+    "domain": "giving_advice",
+    "front": "What is a good basic structure for this response?",
+    "back": "State your advice clearly, give two supporting reasons, and end with a brief closing statement that reinforces your recommendation."
+  },
+  {
+    "id": 309,
+    "domain": "giving_advice",
+    "front": "Why does silence during your response hurt your score?",
+    "back": "Long pauses reduce fluency and make your response sound underdeveloped, even if the content you did say was reasonable."
+  },
+  {
+    "id": 310,
+    "domain": "giving_advice",
+    "front": "Why should you speak at a natural pace rather than rushing?",
+    "back": "Rushing to fill 90 seconds can hurt clarity and pronunciation. It is better to speak steadily and let your ideas naturally fill the time."
+  },
+  {
+    "id": 311,
+    "domain": "giving_advice",
+    "front": "Give a phrase for acknowledging the person's problem before advising them.",
+    "back": "'I understand that this is a difficult decision' shows empathy before you move into your recommendation."
+  },
+  {
+    "id": 312,
+    "domain": "giving_advice",
+    "front": "Give a phrase useful for comparing two options in this task.",
+    "back": "'Compared to option A, option B is better because...' helps you directly justify your choice over the alternative."
+  },
+  {
+    "id": 313,
+    "domain": "giving_advice",
+    "front": "Why is imagining you're speaking directly to the person in the scenario helpful?",
+    "back": "Speaking as if to a real friend or colleague makes your tone more natural and conversational, which supports listenability."
+  },
+  {
+    "id": 314,
+    "domain": "giving_advice",
+    "front": "Why is restating the problem without giving advice a mistake?",
+    "back": "The task asks for your recommendation, not a summary of the situation. Restating the problem alone does not fulfill the task."
+  },
+  {
+    "id": 315,
+    "domain": "giving_advice",
+    "front": "Give an example of a conditional sentence useful for this task.",
+    "back": "'If you take this job, you will gain valuable experience' links an action to a likely outcome, strengthening your advice."
+  },
+  {
+    "id": 316,
+    "domain": "giving_advice",
+    "front": "Why is it a mistake to give advice about the wrong part of the scenario?",
+    "back": "Some prompts describe a problem with several elements. Make sure your advice directly addresses the actual decision the person needs to make."
+  },
+  {
+    "id": 317,
+    "domain": "giving_advice",
+    "front": "How should your sentence complexity change under time pressure?",
+    "back": "Keep sentences clear and complete rather than attempting overly complicated grammar that you might not finish correctly under pressure."
+  },
+  {
+    "id": 318,
+    "domain": "giving_advice",
+    "front": "Give a phrase for transitioning to your second reason.",
+    "back": "'Another reason is...' clearly signals you are adding a new supporting point rather than repeating the first one."
+  },
+  {
+    "id": 319,
+    "domain": "giving_advice",
+    "front": "Does this task display a picture?",
+    "back": "No, the scenario is presented as written or spoken text describing the situation, with no image shown."
+  },
+  {
+    "id": 320,
+    "domain": "giving_advice",
+    "front": "Give a strong opinion phrase to open your advice.",
+    "back": "'Honestly, my advice would be to...' signals confidence and commitment to your recommendation right from the start."
+  },
+  {
+    "id": 321,
+    "domain": "giving_advice",
+    "front": "Why is switching between two pieces of advice a mistake?",
+    "back": "Wavering between two suggestions without settling on one makes your response sound indecisive and weakens Task Fulfillment."
+  },
+  {
+    "id": 322,
+    "domain": "giving_advice",
+    "front": "What broad categories does CELPIP Speaking scoring cover?",
+    "back": "Speaking responses are scored on content and coherence, vocabulary, listenability, and task fulfillment, so clear organized speech matters as much as ideas."
+  },
+  {
+    "id": 323,
+    "domain": "giving_advice",
+    "front": "Should you worry about your accent when speaking?",
+    "back": "No. Focus on speaking clearly and being understood rather than trying to sound like a native speaker. A clear accent is not penalized."
+  },
+  {
+    "id": 324,
+    "domain": "giving_advice",
+    "front": "What should you avoid doing right after stating your advice?",
+    "back": "Avoid simply repeating your recommendation in different words. Move on to give reasons and examples that support it instead."
+  },
+  {
+    "id": 325,
+    "domain": "giving_advice",
+    "front": "Why is practising with real-life advice scenarios useful preparation?",
+    "back": "Practising common situations, such as choosing between two jobs or two apartments, builds ready phrases you can adapt quickly during the real task."
+  },
+  {
+    "id": 326,
+    "domain": "talking_about_a_personal_experience",
+    "front": "How much preparation and response time do you get for Speaking Task 2?",
+    "back": "You get 60 seconds to prepare and 60 seconds to respond, an equal split between planning and speaking."
+  },
+  {
+    "id": 327,
+    "domain": "talking_about_a_personal_experience",
+    "front": "What kind of story should you tell in this task?",
+    "back": "Describe one specific event from your own life, or an invented but plausible one, rather than a general habit or repeated activity."
+  },
+  {
+    "id": 328,
+    "domain": "talking_about_a_personal_experience",
+    "front": "What is a good structure for this response?",
+    "back": "Set the scene by describing when and where the event happened, describe what happened, and explain how you felt or what you learned."
+  },
+  {
+    "id": 329,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Give sequencing words useful for telling a story in this task.",
+    "back": "'First,' 'Then,' and 'After that' help organize your story clearly in the order events happened."
+  },
+  {
+    "id": 330,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Give phrases for describing your feelings during the story.",
+    "back": "'I felt...' or 'It made me feel...' let you naturally add an emotional reaction, which strengthens the content of your response."
+  },
+  {
+    "id": 331,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Why is describing a general habit instead of one event a common mistake?",
+    "back": "Prompts usually ask about a specific occasion. Saying 'I always go camping' instead of describing one particular camping trip misses the task requirement."
+  },
+  {
+    "id": 332,
+    "domain": "talking_about_a_personal_experience",
+    "front": "What tense should you use consistently in this task?",
+    "back": "Use consistent past tense throughout, since you are describing something that already happened."
+  },
+  {
+    "id": 333,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Is it acceptable to invent a story if you cannot think of a real one?",
+    "back": "Yes. A plausible invented story that fits the prompt is perfectly acceptable and is scored the same as a true story."
+  },
+  {
+    "id": 334,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Why is vagueness a common weakness in this task?",
+    "back": "A story with no concrete details, such as no place, time, or specific action, sounds generic and does not fully develop the content score."
+  },
+  {
+    "id": 335,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Give examples of useful time markers for this task.",
+    "back": "'Last summer,' 'A few years ago,' and 'When I was younger' help place your story clearly in time for the listener."
+  },
+  {
+    "id": 336,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Why does adding a small sensory or personal detail help your response?",
+    "back": "A specific detail, like the smell of the campfire or the name of a friend, makes the story feel real and adds richness beyond a bare outline."
+  },
+  {
+    "id": 337,
+    "domain": "talking_about_a_personal_experience",
+    "front": "What happens if you spend too long setting the scene?",
+    "back": "You may run out of time before reaching the ending of your story, leaving the response feeling incomplete. Balance your time across the beginning, middle, and end."
+  },
+  {
+    "id": 338,
+    "domain": "talking_about_a_personal_experience",
+    "front": "How should you use your 60 seconds of preparation?",
+    "back": "Quickly decide which specific event to describe and outline a beginning, middle, and end so you are not improvising the whole structure while speaking."
+  },
+  {
+    "id": 339,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Give phrases showing cause and effect useful for this task.",
+    "back": "'As a result' and 'Because of this' help you connect an event to its outcome, adding logical structure to your story."
+  },
+  {
+    "id": 340,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Why is answering a different question than what was asked a serious mistake?",
+    "back": "If the prompt asks about a challenge you overcame and you describe an unrelated happy memory, you fail to fulfill the actual task."
+  },
+  {
+    "id": 341,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Give a phrase for expressing a lesson learned.",
+    "back": "'Since then, I have learned that...' is a natural way to close your story by reflecting on what the experience taught you."
+  },
+  {
+    "id": 342,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Why do filler words like 'um' and 'like' hurt your score?",
+    "back": "Excessive filler words reduce fluency and make your response harder to follow, lowering your listenability score even if your vocabulary is strong."
+  },
+  {
+    "id": 343,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Should you prioritize grammar accuracy or continuing to speak?",
+    "back": "Prioritize continuing to speak smoothly. A brief grammar mistake is less damaging than stopping to correct yourself repeatedly."
+  },
+  {
+    "id": 344,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Give sequencing phrases for organizing the story clearly.",
+    "back": "'To begin with,' 'Next,' and 'In the end' clearly mark the different stages of your story for the listener."
+  },
+  {
+    "id": 345,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Why is repeating the same sentence structure throughout a weakness?",
+    "back": "Using only 'I went... I saw... I did...' repeatedly limits your demonstrated vocabulary and grammatical range."
+  },
+  {
+    "id": 346,
+    "domain": "talking_about_a_personal_experience",
+    "front": "How can varied vocabulary strengthen this response?",
+    "back": "Using different descriptive words instead of repeating the same adjective, such as varying 'nice' with 'memorable' or 'exciting,' shows stronger word choice."
+  },
+  {
+    "id": 347,
+    "domain": "talking_about_a_personal_experience",
+    "front": "What common themes appear in this task's prompts?",
+    "back": "Prompts often ask about travel, an achievement, a challenge, or a memorable event, so having flexible stories ready for these themes helps."
+  },
+  {
+    "id": 348,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Does this task use a picture?",
+    "back": "No, this task presents a written or spoken prompt describing the type of experience to talk about, with no image shown."
+  },
+  {
+    "id": 349,
+    "domain": "talking_about_a_personal_experience",
+    "front": "Why is preparing a few flexible personal stories in advance useful?",
+    "back": "A few adaptable stories, such as an achievement or a travel memory, can be reshaped to answer many different specific prompts on test day."
+  },
+  {
+    "id": 350,
+    "domain": "talking_about_a_personal_experience",
+    "front": "What structural balance should you aim for given the equal 60/60 timing?",
+    "back": "Since preparation and response time are equal, use the full 60 seconds of prep to plan a complete beginning, middle, and end rather than starting to speak immediately."
+  },
+  {
+    "id": 351,
+    "domain": "describing_a_scene",
+    "front": "How much preparation and response time do you get for Speaking Task 3, Describing a Scene?",
+    "back": "You get 30 seconds to prepare and 60 seconds to respond, and one picture is shown for this task."
+  },
+  {
+    "id": 352,
+    "domain": "describing_a_scene",
+    "front": "What is the basic goal of this task?",
+    "back": "Describe the picture shown on screen in detail, covering the overall scene as well as specific elements within it."
+  },
+  {
+    "id": 353,
+    "domain": "describing_a_scene",
+    "front": "What order should you generally describe the picture in?",
+    "back": "Start with a general overview of the scene, then move into specific details such as people, objects, and actions."
+  },
+  {
+    "id": 354,
+    "domain": "describing_a_scene",
+    "front": "Give spatial vocabulary useful for this task.",
+    "back": "'In the foreground,' 'in the background,' 'on the left,' and 'in the centre' help you clearly locate elements within the picture."
+  },
+  {
+    "id": 355,
+    "domain": "describing_a_scene",
+    "front": "Give phrases for describing people in the picture.",
+    "back": "'Appears to be' or 'seems to be' let you describe a person's age, mood, or activity without overstating certainty."
+  },
+  {
+    "id": 356,
+    "domain": "describing_a_scene",
+    "front": "Why is only naming objects a weak strategy?",
+    "back": "Simply listing nouns like 'a table, a chair, a lamp' without description does not demonstrate vocabulary range or detailed observation."
+  },
+  {
+    "id": 357,
+    "domain": "describing_a_scene",
+    "front": "Why should you describe actions, not just objects?",
+    "back": "Describing what people are doing, not only what is present, gives a fuller and more dynamic picture and uses more varied grammar."
+  },
+  {
+    "id": 358,
+    "domain": "describing_a_scene",
+    "front": "Give a phrase for describing an action in progress.",
+    "back": "'The man is carrying a box' uses present continuous tense to describe an ongoing action clearly visible in the picture."
+  },
+  {
+    "id": 359,
+    "domain": "describing_a_scene",
+    "front": "Why should you avoid guessing wildly beyond what the picture shows?",
+    "back": "For this task, stick to observable details. Inventing an unrelated backstory moves away from the goal of accurate description."
+  },
+  {
+    "id": 360,
+    "domain": "describing_a_scene",
+    "front": "How should you use your 30 seconds of preparation?",
+    "back": "Quickly scan the whole picture to identify the main elements, so you have a mental list of details ready before you start speaking."
+  },
+  {
+    "id": 361,
+    "domain": "describing_a_scene",
+    "front": "What grammar tense is most useful for describing an ongoing scene?",
+    "back": "Present continuous tense, such as 'is walking' or 'are talking,' fits actions happening in the picture at that moment."
+  },
+  {
+    "id": 362,
+    "domain": "describing_a_scene",
+    "front": "Give a phrase for describing the mood or atmosphere of a scene.",
+    "back": "'It looks like a relaxed outdoor setting' or 'The scene appears busy' add a layer beyond simple object description."
+  },
+  {
+    "id": 363,
+    "domain": "describing_a_scene",
+    "front": "What should you do if you run out of new details before time is up?",
+    "back": "Add smaller observations, such as colours, approximate numbers, or clothing details, to keep describing until the 60 seconds end."
+  },
+  {
+    "id": 364,
+    "domain": "describing_a_scene",
+    "front": "What is one efficient way to organize your description?",
+    "back": "Move systematically, for example from top to bottom or left to right, so you cover the picture thoroughly without repeating yourself."
+  },
+  {
+    "id": 365,
+    "domain": "describing_a_scene",
+    "front": "Give hedging language for details you are not fully certain about.",
+    "back": "'It looks like' or 'It could be' let you describe an ambiguous detail without claiming false certainty."
+  },
+  {
+    "id": 366,
+    "domain": "describing_a_scene",
+    "front": "Why is pausing to think mid-response a problem?",
+    "back": "A silent pause interrupts fluency. It is better to keep describing visible details continuously rather than stopping to plan further."
+  },
+  {
+    "id": 367,
+    "domain": "describing_a_scene",
+    "front": "What kinds of details can help you fill the full 60 seconds?",
+    "back": "Colours, approximate quantities, clothing, and background objects are useful additional details when the main action has already been described."
+  },
+  {
+    "id": 368,
+    "domain": "describing_a_scene",
+    "front": "Give a phrase for describing weather or setting in a picture.",
+    "back": "'It appears to be a sunny day' or 'This looks like a busy street' set the overall context of the scene."
+  },
+  {
+    "id": 369,
+    "domain": "describing_a_scene",
+    "front": "Why is overusing 'there is' and 'there are' a weakness?",
+    "back": "Relying only on 'there is/are' repeatedly limits your sentence variety. Mix in other structures like 'I can see' or descriptive verbs."
+  },
+  {
+    "id": 370,
+    "domain": "describing_a_scene",
+    "front": "Give quantity vocabulary useful for describing groups of people or objects.",
+    "back": "'A few,' 'several,' and 'a large group of' help describe approximate numbers naturally without needing an exact count."
+  },
+  {
+    "id": 371,
+    "domain": "describing_a_scene",
+    "front": "Does the picture remain visible while you respond?",
+    "back": "Yes, the picture stays on screen during your response, so you can continue to look at it and add new details as you speak."
+  },
+  {
+    "id": 372,
+    "domain": "describing_a_scene",
+    "front": "Should you try to invent a story about the picture in this task?",
+    "back": "No, the goal is accurate description of what is visible, not storytelling. Save prediction and speculation for the tasks that ask for it."
+  },
+  {
+    "id": 373,
+    "domain": "describing_a_scene",
+    "front": "Give a phrase useful for comparing two elements within the same picture.",
+    "back": "'Unlike the man on the left, the woman on the right is standing' helps you organize your description by contrasting different parts of the scene."
+  },
+  {
+    "id": 374,
+    "domain": "describing_a_scene",
+    "front": "Why is stopping early before the 60 seconds end a mistake?",
+    "back": "Ending early leaves potential content and fluency marks on the table. Keep observing and describing new details until time runs out."
+  },
+  {
+    "id": 375,
+    "domain": "describing_a_scene",
+    "front": "What is one way to practise for this task at home?",
+    "back": "Practise describing random photographs out loud for 60 seconds, moving from general overview to specific detail, to build speed and vocabulary."
+  },
+  {
+    "id": 376,
+    "domain": "making_predictions",
+    "front": "How much preparation and response time do you get for Speaking Task 4, Making Predictions?",
+    "back": "You get 30 seconds to prepare and 60 seconds to respond, and one picture is shown showing a scene frozen in the middle of an action."
+  },
+  {
+    "id": 377,
+    "domain": "making_predictions",
+    "front": "What is the core requirement of this task?",
+    "back": "Predict what is likely to happen next based on cues in the picture, rather than only describing what is currently visible."
+  },
+  {
+    "id": 378,
+    "domain": "making_predictions",
+    "front": "What kinds of picture details can help you form predictions?",
+    "back": "Look at posture, facial expressions, nearby objects, and the overall setting for clues about what is about to happen."
+  },
+  {
+    "id": 379,
+    "domain": "making_predictions",
+    "front": "Give prediction language useful in this task.",
+    "back": "'Is likely to,' 'is probably going to,' and 'will probably' all clearly signal that you are predicting a future outcome."
+  },
+  {
+    "id": 380,
+    "domain": "making_predictions",
+    "front": "Why is only describing the picture a common mistake in this task?",
+    "back": "This task specifically asks for predictions about what happens next, not a description of the current scene, which is Task 3's job."
+  },
+  {
+    "id": 381,
+    "domain": "making_predictions",
+    "front": "How can you fill the 60 seconds if you only have one obvious prediction?",
+    "back": "Make multiple predictions covering both the near future and a further consequence, giving your response more depth."
+  },
+  {
+    "id": 382,
+    "domain": "making_predictions",
+    "front": "Give hedging language for uncertain predictions.",
+    "back": "'Might,' 'could,' and 'it's possible that' let you predict without overstating certainty about an ambiguous picture."
+  },
+  {
+    "id": 383,
+    "domain": "making_predictions",
+    "front": "What verb forms are most useful for predictions?",
+    "back": "Future forms such as 'will' and 'going to' clearly mark that you are talking about what happens after the moment shown in the picture."
+  },
+  {
+    "id": 384,
+    "domain": "making_predictions",
+    "front": "Why should your predictions not contradict visible details in the picture?",
+    "back": "A prediction should logically follow from what is shown. Contradicting an obvious detail, like predicting rain in a sunny picture, weakens coherence."
+  },
+  {
+    "id": 385,
+    "domain": "making_predictions",
+    "front": "Give a phrase for showing consequence in a prediction.",
+    "back": "'As a result, she will probably...' links one predicted event to a further outcome, extending your response naturally."
+  },
+  {
+    "id": 386,
+    "domain": "making_predictions",
+    "front": "Why is giving only a one-sentence prediction and stopping a weakness?",
+    "back": "A single short prediction does not develop enough content. Explain your reasoning and add a follow-up prediction to extend the response."
+  },
+  {
+    "id": 387,
+    "domain": "making_predictions",
+    "front": "Give a phrase for explaining your reasoning behind a prediction.",
+    "back": "'I think this because...' lets you justify your prediction using specific details from the picture."
+  },
+  {
+    "id": 388,
+    "domain": "making_predictions",
+    "front": "Give a phrase for offering an alternative possible outcome.",
+    "back": "'Another possibility is...' or 'One outcome could be...' let you offer a second prediction, showing flexible thinking."
+  },
+  {
+    "id": 389,
+    "domain": "making_predictions",
+    "front": "Why is describing what already happened a mistake in this task?",
+    "back": "The task asks about the future from the moment shown, not events before the picture was taken."
+  },
+  {
+    "id": 390,
+    "domain": "making_predictions",
+    "front": "How should you use the picture's context to justify predictions?",
+    "back": "Use details of the setting, the people, and nearby objects to explain why your prediction makes sense given the situation shown."
+  },
+  {
+    "id": 391,
+    "domain": "making_predictions",
+    "front": "Give a conditional sentence useful for this task.",
+    "back": "'If she keeps running at this pace, she will likely win the race' links a visible action to a probable future result."
+  },
+  {
+    "id": 392,
+    "domain": "making_predictions",
+    "front": "What should you avoid if you run out of new predictions?",
+    "back": "Avoid repeating the same prediction in slightly different words. Instead, add reasoning or a related secondary prediction to keep developing the response."
+  },
+  {
+    "id": 393,
+    "domain": "making_predictions",
+    "front": "How should you use your 30 seconds of preparation for this task?",
+    "back": "Quickly identify the clearest cue in the picture and think of both a short-term and a longer-term prediction before speaking."
+  },
+  {
+    "id": 394,
+    "domain": "making_predictions",
+    "front": "Give language for expressing different levels of certainty.",
+    "back": "'Definitely,' 'probably,' and 'might possibly' let you show a range of confidence across different predictions in the same response."
+  },
+  {
+    "id": 395,
+    "domain": "making_predictions",
+    "front": "Why should predictions stay tied to picture content rather than fantastical?",
+    "back": "An overly imaginative prediction unrelated to any visible detail, such as an alien arriving, sounds disconnected and does not use the picture meaningfully."
+  },
+  {
+    "id": 396,
+    "domain": "making_predictions",
+    "front": "Should you try to speak quickly to cover more predictions?",
+    "back": "No, keep a steady natural pace. Clarity and coherence matter more than the number of predictions squeezed into the response."
+  },
+  {
+    "id": 397,
+    "domain": "making_predictions",
+    "front": "Is the same picture available throughout your response?",
+    "back": "Yes, the picture remains visible throughout preparation and response, so you can refer back to it as you speak."
+  },
+  {
+    "id": 398,
+    "domain": "making_predictions",
+    "front": "Give a phrase for predicting someone's reaction.",
+    "back": "'She will likely feel relieved once the results come in' predicts an emotional reaction based on the visible situation."
+  },
+  {
+    "id": 399,
+    "domain": "making_predictions",
+    "front": "How is this task different from Task 3, Describing a Scene?",
+    "back": "Task 3 asks you to describe what is currently visible, while Task 4 asks you to predict what happens after the moment shown."
+  },
+  {
+    "id": 400,
+    "domain": "making_predictions",
+    "front": "How can you practise for this task outside of test prep materials?",
+    "back": "Look at random photos and practise saying out loud what you think will happen next, building comfort with prediction language quickly."
+  },
+  {
+    "id": 401,
+    "domain": "comparing_and_persuading",
+    "front": "How much preparation and response time do you get for Speaking Task 5, Comparing and Persuading?",
+    "back": "You get 60 seconds to prepare and 60 seconds to respond, and two pictures are shown for this task."
+  },
+  {
+    "id": 402,
+    "domain": "comparing_and_persuading",
+    "front": "What is the core requirement of this task?",
+    "back": "You must choose one of two options shown in the pictures and persuade someone, often a specific person named in the prompt, to agree with your choice."
+  },
+  {
+    "id": 403,
+    "domain": "comparing_and_persuading",
+    "front": "Why should you commit to a choice quickly?",
+    "back": "Describing both options neutrally without ever choosing one weakens Task Fulfillment. Pick a side early and build your case around it."
+  },
+  {
+    "id": 404,
+    "domain": "comparing_and_persuading",
+    "front": "Give comparative vocabulary useful for this task.",
+    "back": "'More,' 'less,' 'better than,' and 'cheaper than' allow you to directly compare the two options shown."
+  },
+  {
+    "id": 405,
+    "domain": "comparing_and_persuading",
+    "front": "Give a persuasive phrase for recommending your choice.",
+    "back": "'I would definitely recommend option B' or 'The clear choice is...' state your recommendation with confidence."
+  },
+  {
+    "id": 406,
+    "domain": "comparing_and_persuading",
+    "front": "How many supporting reasons should you aim to give?",
+    "back": "Aim for at least two distinct reasons that favour your chosen option, rather than one reason repeated in different words."
+  },
+  {
+    "id": 407,
+    "domain": "comparing_and_persuading",
+    "front": "Give a contrast phrase useful for comparing the two options.",
+    "back": "'Unlike option A, option B offers free delivery' directly contrasts a weakness of one option with a strength of the other."
+  },
+  {
+    "id": 408,
+    "domain": "comparing_and_persuading",
+    "front": "Why should you address the person mentioned in the prompt directly?",
+    "back": "Many prompts frame this as persuading a specific friend or colleague. Speaking as if directly to that person makes your response more natural."
+  },
+  {
+    "id": 409,
+    "domain": "comparing_and_persuading",
+    "front": "Give a phrase for addressing your audience directly.",
+    "back": "'I think you'll agree that this option is more convenient' speaks directly to the listener you are trying to persuade."
+  },
+  {
+    "id": 410,
+    "domain": "comparing_and_persuading",
+    "front": "Give comparative and superlative adjective forms useful here.",
+    "back": "'Cheaper,' 'more convenient,' and 'the best option' let you clearly rank the two choices against each other."
+  },
+  {
+    "id": 411,
+    "domain": "comparing_and_persuading",
+    "front": "How should you use your 60 seconds of preparation?",
+    "back": "Quickly compare the two pictures, choose your side, and note two or three comparison points before you begin speaking."
+  },
+  {
+    "id": 412,
+    "domain": "comparing_and_persuading",
+    "front": "Give a phrase for briefly acknowledging the other option before dismissing it.",
+    "back": "'While option A does look appealing, option B is still the better choice because...' shows balanced thinking while staying firm on your recommendation."
+  },
+  {
+    "id": 413,
+    "domain": "comparing_and_persuading",
+    "front": "Why must you end with a clear final recommendation?",
+    "back": "Forgetting to state your final choice clearly at the end can make your position feel unresolved, even after strong comparisons in the middle."
+  },
+  {
+    "id": 414,
+    "domain": "comparing_and_persuading",
+    "front": "Give a phrase for emphasizing a key benefit of your chosen option.",
+    "back": "'What makes this option stand out is its lower price' highlights the strongest advantage driving your recommendation."
+  },
+  {
+    "id": 415,
+    "domain": "comparing_and_persuading",
+    "front": "Why is spending too long describing the pictures a mistake?",
+    "back": "This task rewards persuasion, not just description. Move quickly from noting details to building your argument for one option."
+  },
+  {
+    "id": 416,
+    "domain": "comparing_and_persuading",
+    "front": "Give a phrase linking a reason to your recommendation.",
+    "back": "'Because it includes free maintenance, I recommend this plan' connects a specific fact directly to your final advice."
+  },
+  {
+    "id": 417,
+    "domain": "comparing_and_persuading",
+    "front": "Why is choosing an option but never explaining why a mistake?",
+    "back": "Stating a preference without supporting reasons does not demonstrate the persuasive reasoning this task is designed to assess."
+  },
+  {
+    "id": 418,
+    "domain": "comparing_and_persuading",
+    "front": "Give cost or value vocabulary useful for this task.",
+    "back": "'A better deal,' 'more cost-effective,' and 'worth the extra money' are useful phrases when comparing price and value."
+  },
+  {
+    "id": 419,
+    "domain": "comparing_and_persuading",
+    "front": "Why should you keep persuading right until the end of the response?",
+    "back": "Trailing off with weak or repeated content near the end reduces the overall strength of your argument. Keep adding value until time is up."
+  },
+  {
+    "id": 420,
+    "domain": "comparing_and_persuading",
+    "front": "Are both pictures visible during your response?",
+    "back": "Yes, both pictures remain on screen throughout your response, so you can refer to specific visible details from each."
+  },
+  {
+    "id": 421,
+    "domain": "comparing_and_persuading",
+    "front": "How can daily practice help with this task's structure?",
+    "back": "Practising comparing everyday choices, like two restaurants or two phones, builds quick fluency in switching between description and persuasion."
+  },
+  {
+    "id": 422,
+    "domain": "comparing_and_persuading",
+    "front": "Give a linking word for adding a reason using cause.",
+    "back": "'Since' or 'because' connect a fact about one option directly to why it is the better choice, strengthening your argument's logic."
+  },
+  {
+    "id": 423,
+    "domain": "comparing_and_persuading",
+    "front": "Why is repeating the same point in different words a weakness?",
+    "back": "It can signal that you have run out of genuine reasons. Instead, look for a second, distinct advantage to mention."
+  },
+  {
+    "id": 424,
+    "domain": "comparing_and_persuading",
+    "front": "What structure works well for this task overall?",
+    "back": "Briefly note both options, state your choice, give two distinct reasons with details from the pictures, and close with a firm recommendation."
+  },
+  {
+    "id": 425,
+    "domain": "comparing_and_persuading",
+    "front": "Why is this task different from Task 3, Describing a Scene?",
+    "back": "Task 3 only asks for description of one picture, while Task 5 requires comparing two pictures and building a persuasive argument for one over the other."
+  },
+  {
+    "id": 426,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "How much preparation and response time do you get for Speaking Task 6, Dealing with a Difficult Situation?",
+    "back": "You get 60 seconds to prepare and 60 seconds to respond, and no picture is shown for this task."
+  },
+  {
+    "id": 427,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "What kind of scenario appears in this task?",
+    "back": "You are given an awkward or difficult situation, such as needing to cancel plans, deliver bad news, or explain a mistake to someone."
+  },
+  {
+    "id": 428,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why should you acknowledge the difficulty of the situation first?",
+    "back": "Acknowledging the awkwardness shows empathy and social awareness before you move into your explanation or response."
+  },
+  {
+    "id": 429,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Give a diplomatic phrase for delivering unwelcome news.",
+    "back": "'I'm afraid that...' or 'Unfortunately, I have to...' soften the delivery of bad news while staying clear."
+  },
+  {
+    "id": 430,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Give a phrase for apologizing in this task.",
+    "back": "'I'm really sorry about this' or 'I apologize for the inconvenience' show sincerity when addressing a problem you caused or are reporting."
+  },
+  {
+    "id": 431,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why is sounding overly blunt a common mistake here?",
+    "back": "Delivering bad news too bluntly without softening language can come across as rude, even if the message itself is accurate."
+  },
+  {
+    "id": 432,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why should your response include a solution, not just an apology?",
+    "back": "An apology alone leaves the situation unresolved. Offering an alternative or next step shows you are actively addressing the problem."
+  },
+  {
+    "id": 433,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Give a phrase for offering an alternative solution.",
+    "back": "'As an alternative, I suggest we reschedule for next week' proposes a concrete next step rather than leaving the issue unresolved."
+  },
+  {
+    "id": 434,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why is avoiding the actual difficult message a mistake?",
+    "back": "Spending your time on small talk instead of addressing the core issue described in the prompt fails to fulfill the task."
+  },
+  {
+    "id": 435,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why is imagining you're speaking directly to the person in the scenario useful?",
+    "back": "It keeps your tone natural and personal, similar to how you would actually deliver this message in real life."
+  },
+  {
+    "id": 436,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Give a phrase for softening bad news.",
+    "back": "'I wish I had better news, but...' prepares the listener for disappointing information in a considerate way."
+  },
+  {
+    "id": 437,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Give an example of a polite modal verb useful in this task.",
+    "back": "'Would' or 'could' soften statements, for example 'Would it be possible to reschedule?' instead of a blunt demand."
+  },
+  {
+    "id": 438,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why is ending abruptly without resolution a mistake?",
+    "back": "A response that states the problem but offers no closing or next step feels incomplete and unresolved for the listener."
+  },
+  {
+    "id": 439,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "What is a useful four-part structure for this task?",
+    "back": "Acknowledge the problem, briefly explain the situation, propose a solution, and close politely, all within the 60 second response."
+  },
+  {
+    "id": 440,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Give a phrase offering reassurance.",
+    "back": "'I promise to make it up to you' or 'I'll do my best to fix this' close the response on a constructive, reassuring note."
+  },
+  {
+    "id": 441,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why is forgetting to answer what the prompt actually asked a serious mistake?",
+    "back": "Some prompts ask you to explain a decision or make a request specifically. Straying from that exact requirement weakens Task Fulfillment."
+  },
+  {
+    "id": 442,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why should you keep a calm, respectful tone even in a tense scenario?",
+    "back": "Sounding frustrated or overly emotional does not match the professional, considerate tone this task is designed to test."
+  },
+  {
+    "id": 443,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Give a phrase for taking responsibility for a mistake.",
+    "back": "'It's my fault that the order was delayed' directly and honestly acknowledges responsibility, which sounds mature and genuine."
+  },
+  {
+    "id": 444,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why is talking too briefly a weakness in this task?",
+    "back": "A response that finishes well before 60 seconds are up leaves content and fluency marks unearned. Develop your explanation and solution more fully."
+  },
+  {
+    "id": 445,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "How should you use your 60 seconds of preparation for this task?",
+    "back": "Plan the explanation of what went wrong and the proposed solution as two separate parts, so you don't mix them together while speaking."
+  },
+  {
+    "id": 446,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Give a phrase for expressing understanding of the other person's feelings.",
+    "back": "'I understand you must be frustrated about this' shows empathy before you continue with your explanation or solution."
+  },
+  {
+    "id": 447,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why is sounding scripted rather than natural a weakness?",
+    "back": "A response that feels memorized rather than conversational can come across as stiff. Aim for a natural, flexible tone."
+  },
+  {
+    "id": 448,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "What tense pattern works well for this task's structure?",
+    "back": "Use past tense to explain what went wrong, then shift to future or conditional forms when describing your proposed solution."
+  },
+  {
+    "id": 449,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Does this task use a picture?",
+    "back": "No, the scenario is given as text on screen describing the situation, with no image shown."
+  },
+  {
+    "id": 450,
+    "domain": "dealing_with_a_difficult_situation",
+    "front": "Why is practising common awkward scenarios useful preparation?",
+    "back": "Rehearsing situations like cancelling plans, admitting a mistake, or making a complaint builds ready phrases for the real difficult situation prompt."
+  },
+  {
+    "id": 451,
+    "domain": "expressing_opinions",
+    "front": "How much preparation and response time do you get for Speaking Task 7, Expressing Opinions?",
+    "back": "You get 30 seconds to prepare and 90 seconds to respond, and no picture is shown for this task."
+  },
+  {
+    "id": 452,
+    "domain": "expressing_opinions",
+    "front": "What kind of prompt appears in this task?",
+    "back": "You are given a general topic or question and asked to express and support your own opinion about it."
+  },
+  {
+    "id": 453,
+    "domain": "expressing_opinions",
+    "front": "Where should you state your opinion in the response?",
+    "back": "State your opinion clearly in your very first sentence so the listener knows your position immediately."
+  },
+  {
+    "id": 454,
+    "domain": "expressing_opinions",
+    "front": "Give an opinion phrase useful for opening this response.",
+    "back": "'In my opinion' or 'Personally, I think' are direct, natural ways to begin stating your position on the topic."
+  },
+  {
+    "id": 455,
+    "domain": "expressing_opinions",
+    "front": "How many distinct reasons should you aim to give?",
+    "back": "Aim for at least two distinct reasons that support your opinion, rather than one reason repeated in different words."
+  },
+  {
+    "id": 456,
+    "domain": "expressing_opinions",
+    "front": "Give reason connector phrases useful for this task.",
+    "back": "'Firstly' and 'Secondly' clearly organize your two main supporting reasons for the listener."
+  },
+  {
+    "id": 457,
+    "domain": "expressing_opinions",
+    "front": "Why is not stating a clear opinion a serious mistake?",
+    "back": "This task specifically requires a stated position. A response that only discusses the topic generally without an opinion fails Task Fulfillment."
+  },
+  {
+    "id": 458,
+    "domain": "expressing_opinions",
+    "front": "Why is switching sides mid-response a problem?",
+    "back": "Starting with one opinion and drifting toward the opposite view confuses the listener and weakens coherence."
+  },
+  {
+    "id": 459,
+    "domain": "expressing_opinions",
+    "front": "Why should you use a specific example to support your opinion?",
+    "back": "A personal experience or concrete example makes an abstract opinion more convincing and demonstrates fuller content development."
+  },
+  {
+    "id": 460,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for introducing an example in this task.",
+    "back": "'For instance' or 'To give an example' let you follow a general reason with specific supporting detail."
+  },
+  {
+    "id": 461,
+    "domain": "expressing_opinions",
+    "front": "Give varied connector words useful throughout this response.",
+    "back": "'Although,' 'because,' 'since,' and 'therefore' let you link ideas with more sophisticated grammar than simple listing."
+  },
+  {
+    "id": 462,
+    "domain": "expressing_opinions",
+    "front": "Why is running out of things to say a common weakness in this task?",
+    "back": "At 90 seconds, this is a long response. Plan two or three main points during preparation so you have enough content to reach the end."
+  },
+  {
+    "id": 463,
+    "domain": "expressing_opinions",
+    "front": "How should you use your 30 seconds of preparation?",
+    "back": "Quickly decide your opinion and think of two or three supporting points so you are not searching for ideas while already speaking."
+  },
+  {
+    "id": 464,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for briefly acknowledging an opposing view.",
+    "back": "'Some people might disagree, but...' shows balanced thinking while keeping your own opinion firm."
+  },
+  {
+    "id": 465,
+    "domain": "expressing_opinions",
+    "front": "Why is repeating the same reason in different words a weakness?",
+    "back": "It signals a lack of genuine developed content. Instead, aim for a second, truly distinct supporting point."
+  },
+  {
+    "id": 466,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for closing this response.",
+    "back": "'Overall' or 'For these reasons' signal that you are summarizing and restating your opinion before finishing."
+  },
+  {
+    "id": 467,
+    "domain": "expressing_opinions",
+    "front": "What tense pattern works well for this task?",
+    "back": "Use present tense for stating your general opinion, and past tense when describing a supporting personal example."
+  },
+  {
+    "id": 468,
+    "domain": "expressing_opinions",
+    "front": "Why is speaking too fast to finish early a mistake?",
+    "back": "Finishing well before 90 seconds are up wastes an opportunity to develop content further and may suggest underdeveloped ideas."
+  },
+  {
+    "id": 469,
+    "domain": "expressing_opinions",
+    "front": "Why is careful pacing especially important for this task?",
+    "back": "Since this is one of the longer speaking responses, save some points for the middle and end so the response does not front-load everything and then go silent."
+  },
+  {
+    "id": 470,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase for expressing strength of opinion.",
+    "back": "'I am convinced that...' or 'Without a doubt...' show confidence in your stated position."
+  },
+  {
+    "id": 471,
+    "domain": "expressing_opinions",
+    "front": "Why is giving only one reason and then going silent a serious weakness?",
+    "back": "A single reason followed by silence for the remaining time leaves the response feeling unfinished and underdeveloped."
+  },
+  {
+    "id": 472,
+    "domain": "expressing_opinions",
+    "front": "What overall structure works well for this task?",
+    "back": "Treat it like a short spoken essay: state your opinion, give two reasons with an example, briefly acknowledge the other side, and conclude."
+  },
+  {
+    "id": 473,
+    "domain": "expressing_opinions",
+    "front": "Does this task include a picture?",
+    "back": "No, the opinion topic is given as a text prompt on screen, with no accompanying image."
+  },
+  {
+    "id": 474,
+    "domain": "expressing_opinions",
+    "front": "Give a phrase linking a personal example back to your opinion.",
+    "back": "'This is why I believe...' connects your supporting example directly back to the opinion you stated at the start."
+  },
+  {
+    "id": 475,
+    "domain": "expressing_opinions",
+    "front": "Why is practising timing yourself out loud especially useful for this task?",
+    "back": "Since this task has the longest response time, timing yourself helps you learn how much content actually fills 90 seconds comfortably."
+  },
+  {
+    "id": 476,
+    "domain": "describing_an_unusual_situation",
+    "front": "How much preparation and response time do you get for Speaking Task 8, Describing an Unusual Situation?",
+    "back": "You get 30 seconds to prepare and 60 seconds to respond, and one picture is shown for this task."
+  },
+  {
+    "id": 477,
+    "domain": "describing_an_unusual_situation",
+    "front": "What is the core requirement of this task?",
+    "back": "Identify and describe what is unusual, strange, or out of place in the picture, not just describe the scene generally."
+  },
+  {
+    "id": 478,
+    "domain": "describing_an_unusual_situation",
+    "front": "What should you identify first when you see the picture?",
+    "back": "Identify exactly what makes the picture unusual or out of place before you start describing other, more ordinary details."
+  },
+  {
+    "id": 479,
+    "domain": "describing_an_unusual_situation",
+    "front": "Give vocabulary useful for describing oddity in this task.",
+    "back": "'Strangely,' 'unusually,' 'surprisingly,' and 'out of place' all help highlight the odd element in the picture."
+  },
+  {
+    "id": 480,
+    "domain": "describing_an_unusual_situation",
+    "front": "What is a useful structure for describing the unusual element?",
+    "back": "Describe the normal expectation first, then explain how the picture differs from it, making the contrast clear to the listener."
+  },
+  {
+    "id": 481,
+    "domain": "describing_an_unusual_situation",
+    "front": "Give a contrast phrase useful for this task.",
+    "back": "'Normally, you would expect..., but instead...' clearly sets up the expected situation before revealing the unusual twist."
+  },
+  {
+    "id": 482,
+    "domain": "describing_an_unusual_situation",
+    "front": "Why is describing the picture generally without pointing out the unusual part a mistake?",
+    "back": "This task specifically requires identifying what is strange or unexpected, not just describing the scene as in Task 3."
+  },
+  {
+    "id": 483,
+    "domain": "describing_an_unusual_situation",
+    "front": "What should you do if more than one unusual element is present?",
+    "back": "Describe each unusual element you notice, since covering multiple odd details helps fill the response with strong content."
+  },
+  {
+    "id": 484,
+    "domain": "describing_an_unusual_situation",
+    "front": "Give a phrase for speculating about the cause of the unusual situation.",
+    "back": "'Perhaps this happened because...' or 'It's possible that...' let you extend your response by guessing at an explanation."
+  },
+  {
+    "id": 485,
+    "domain": "describing_an_unusual_situation",
+    "front": "Why is missing the most obvious unusual detail a serious weakness?",
+    "back": "If your response overlooks the main odd element and only discusses minor details, it fails to fulfill the core task requirement."
+  },
+  {
+    "id": 486,
+    "domain": "describing_an_unusual_situation",
+    "front": "What tense pattern is useful for this task?",
+    "back": "Use present tense to describe the image, and conditional or modal forms when speculating about why the situation might have occurred."
+  },
+  {
+    "id": 487,
+    "domain": "describing_an_unusual_situation",
+    "front": "How should you use your 30 seconds of preparation?",
+    "back": "Scan the picture quickly to spot every strange detail before you begin speaking, so you don't miss the main odd element."
+  },
+  {
+    "id": 488,
+    "domain": "describing_an_unusual_situation",
+    "front": "Give a phrase for expressing surprise about a detail.",
+    "back": "'What's surprising is that...' or 'It's odd that...' clearly signal you are highlighting an unexpected element."
+  },
+  {
+    "id": 489,
+    "domain": "describing_an_unusual_situation",
+    "front": "What should you do if you run out of things to say after mentioning the obvious detail?",
+    "back": "Add description of the setting and normal elements for contrast, or speculate about a possible cause to extend the response."
+  },
+  {
+    "id": 490,
+    "domain": "describing_an_unusual_situation",
+    "front": "Give a phrase for describing an element that seems out of place.",
+    "back": "'This looks out of place' or 'This doesn't seem to belong here' directly point out the odd element in the scene."
+  },
+  {
+    "id": 491,
+    "domain": "describing_an_unusual_situation",
+    "front": "Why is inventing an unusual detail that isn't in the picture a mistake?",
+    "back": "Your description should be based on what is actually visible. Adding a fabricated detail can make your response inaccurate and confusing."
+  },
+  {
+    "id": 492,
+    "domain": "describing_an_unusual_situation",
+    "front": "Give a phrase useful for speculating with an appropriate level of uncertainty.",
+    "back": "'Maybe' or 'One explanation might be that...' hedge your speculation appropriately since you cannot know the real cause for certain."
+  },
+  {
+    "id": 493,
+    "domain": "describing_an_unusual_situation",
+    "front": "Give modal verbs useful for expressing possibility in this task.",
+    "back": "'Might,' 'could,' and 'may' work well when speculating about why the unusual situation exists in the picture."
+  },
+  {
+    "id": 494,
+    "domain": "describing_an_unusual_situation",
+    "front": "Why is describing the unusual element too briefly a weakness?",
+    "back": "Mentioning the odd detail in one short sentence and then going silent leaves the response underdeveloped for the full 60 seconds."
+  },
+  {
+    "id": 495,
+    "domain": "describing_an_unusual_situation",
+    "front": "What three elements can you combine to fill the full 60 seconds?",
+    "back": "Combine straightforward description, contrast with what is normally expected, and speculation about the cause to build a fuller response."
+  },
+  {
+    "id": 496,
+    "domain": "describing_an_unusual_situation",
+    "front": "Does the picture stay visible throughout this task?",
+    "back": "Yes, the picture remains visible while you prepare and while you respond, so you can refer back to specific details."
+  },
+  {
+    "id": 497,
+    "domain": "describing_an_unusual_situation",
+    "front": "Give a phrase for describing a person's reaction within the unusual scene.",
+    "back": "'The man in the picture looks confused' or 'She seems surprised' describe how people in the scene appear to be reacting."
+  },
+  {
+    "id": 498,
+    "domain": "describing_an_unusual_situation",
+    "front": "Why is stating something looks unusual without explaining why a common weakness?",
+    "back": "Simply saying 'this is strange' without explaining what makes it strange leaves the listener without the reasoning this task is designed to test."
+  },
+  {
+    "id": 499,
+    "domain": "describing_an_unusual_situation",
+    "front": "How is this task different from Task 3, Describing a Scene?",
+    "back": "Task 3 asks for a general, accurate description, while Task 8 specifically requires identifying and explaining what is unusual or unexpected."
+  },
+  {
+    "id": 500,
+    "domain": "describing_an_unusual_situation",
+    "front": "What is a good way to practise for this task outside test materials?",
+    "back": "Practise noticing unusual or funny details in everyday photos and describing out loud what makes them strange, to build this skill quickly."
+  }
+]
